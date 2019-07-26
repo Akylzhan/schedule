@@ -1,0 +1,9687 @@
+ANT 1101LIntroduction to Sociocultural Anthropology3.0612-AUG-1922-NOV-19MW F09:00 AM-09:50 AM030Ramey Moore8.302 - cap:60ANT 1401LWorld Prehistory3.0612-AUG-1922-NOV-19TR03:00 PM-04:15 PM030Paula Dupuy8.154 - cap:60ANT 1402LWorld Prehistory3.0612-AUG-1922-NOV-19TR04:30 PM-05:45 PM030Paula Dupuy8.154 - cap:60ANT 216/SOC 2161LMarriage and Kinship3.0612-AUG-1922-NOV-19MW F03:00 PM-03:50 PM024Erika Alpert8.321 - cap:28ANT 2331LCavemen, Mammoths, and Sabertooths: Stone Age Archaeology in Eurasia3.0612-AUG-1922-NOV-19TR01:30 PM-02:45 PM035Reed Coil8.302 - cap:60ANT 313/REL 3321LIslam and Politics in Eurasia3.0612-AUG-1922-NOV-19TR10:30 AM-11:45 AM024Ulan Bigozhin8.307 - cap:60ANT 3611LHuman Evolution: Bones, Stones and Genomes3.0612-AUG-1922-NOV-19TR09:00 AM-10:15 AM020Reed Coil8.147 - cap:15ANT 3821LAnthropology of Global Health: The Global in the Local3.0612-AUG-1922-NOV-19MW F10:00 AM-10:50 AM030Ramey Moore8.154 - cap:60ANT 385/WLL 3851LPostcolonial Theory and its Applications in Eurasia3.0612-AUG-1922-NOV-19TR12:00 PM-01:15 PM020Alima Bissenova8.322B - cap:24ANT 4981RCapstone Seminar I3.0612-AUG-1922-NOV-19R09:00 AM-11:45 AM020Christina Pugh8.322B - cap:24BENG 4053TProject Management3.0612-AUG-1922-NOV-19F05:00 PM-05:50 PM040Abid Nadeem, Aigerim Baidullayeva3.322 - cap:40
+ BENG 405
+ 4T
+ Project Management
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 12:00 PM-12:50 PM
+ 0
+ 80
+ Abid Nadeem, Aigerim Baidullayeva
+ 3.302 - cap:80
+ BENG 405
+ 3L
+ Project Management
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 40
+ Abid Nadeem, Aigerim Baidullayeva
+ 3.309 - cap:45
+ BENG 405
+ 4L
+ Project Management
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 04:30 PM-05:45 PM
+ 0
+ 80
+ Abid Nadeem, Aigerim Baidullayeva
+ 3E.220 - cap:95
+ BENG 405
+ 2L
+ Project Management
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 53
+ Aigerim Baidullayeva, Md Hossain
+ 3E.221 - cap:53
+ BENG 405
+ 1L
+ Project Management
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 03:00 PM-03:50 PM
+ 0
+ 95
+ Aigerim Baidullayeva, Md Hossain
+ 3E.224 - cap:95
+ BENG 405
+ 1T
+ Project Management
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 11:00 AM-11:50 AM
+ 0
+ 95
+ Aigerim Baidullayeva, Md Hossain
+ 3E.224 - cap:95
+ BENG 405
+ 2T
+ Project Management
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 02:00 PM-02:50 PM
+ 0
+ 53
+ Aigerim Baidullayeva, Md Hossain
+ 3E.321 - cap:18
+ BIOL 101
+ 1L
+ Biology for non-Science majors
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 10:00 AM-10:50 AM
+ 0
+ 72
+ Anara Zhumadilova
+ 7E.529 - cap:104
+ BIOL 101
+ 2L
+ Biology for non-Science majors
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 12:00 PM-12:50 PM
+ 0
+ 72
+ Anara Zhumadilova
+ 7E.529 - cap:104
+ BIOL 101
+ 3L
+ Biology for non-Science majors
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 04:00 PM-04:50 PM
+ 0
+ 72
+ yingqiu Xie
+ 7E.529 - cap:104
+ BIOL 110
+ 2BLb
+ Modern Biology I with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 12:00 PM-02:50 PM
+ 0
+ 24
+ Olena Filchakova
+ 9.228 - cap:40
+ BIOL 110
+ 4BLb
+ Modern Biology I with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 12:00 PM-02:50 PM
+ 0
+ 24
+ Zhalgas Serimbetov
+ 9.228 - cap:40
+ BIOL 110
+ 6BLb
+ Modern Biology I with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 03:00 PM-05:50 PM
+ 0
+ 24
+ Zhalgas Serimbetov
+ 9.228 - cap:40
+ BIOL 110
+ 7BLb
+ Modern Biology I with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 09:00 AM-11:50 AM
+ 0
+ 24
+ TBA TBA
+ 9.228 - cap:40
+ BIOL 110
+ 1BLb
+ Modern Biology I with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 12:00 PM-02:50 PM
+ 0
+ 24
+ Zarina Sautbayeva
+ 7.407 - cap:20
+ BIOL 110
+ 3BLb
+ Modern Biology I with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 12:00 PM-02:50 PM
+ 0
+ 24
+ Zarina Sautbayeva
+ 7.407 - cap:20
+ BIOL 110
+ 5BLb
+ Modern Biology I with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 03:00 PM-05:50 PM
+ 0
+ 24
+ Zarina Sautbayeva
+ 7.407 - cap:20
+ BIOL 110
+ 1L
+ Modern Biology I with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 60
+ Olena Filchakova
+ 7E.529 - cap:104
+ BIOL 110
+ 2L
+ Modern Biology I with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 60
+ Olena Filchakova
+ 7E.529 - cap:104
+ BIOL 110
+ 3L
+ Modern Biology I with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-01:15 PM
+ 0
+ 60
+ Anna Andreeva
+ 7E.529 - cap:104
+ BIOL 230
+ 1Lb
+ Human Anatomy and Physiology I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 12:00 PM-02:50 PM
+ 0
+ 24
+ Chethan Purushothama
+ 7E.229 - cap:24
+ BIOL 230
+ 2Lb
+ Human Anatomy and Physiology I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 12:00 PM-02:50 PM
+ 0
+ 24
+ Chethan Purushothama
+ 7E.229 - cap:24
+ BIOL 230
+ 3Lb
+ Human Anatomy and Physiology I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 12:00 PM-02:50 PM
+ 0
+ 24
+ Chethan Purushothama
+ 7E.229 - cap:24
+ BIOL 230
+ 4Lb
+ Human Anatomy and Physiology I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 12:00 PM-02:50 PM
+ 0
+ 24
+ Chethan Purushothama
+ 7E.229 - cap:24
+ BIOL 230
+ 5Lb
+ Human Anatomy and Physiology I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 12:00 PM-02:50 PM
+ 0
+ 24
+ Chethan Purushothama
+ 7E.229 - cap:24
+ BIOL 230
+ 1L
+ Human Anatomy and Physiology I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 09:00 AM-09:50 AM
+ 0
+ 48
+ Tursonjan Tokay
+ 7E.529 - cap:104
+ BIOL 230
+ 2L
+ Human Anatomy and Physiology I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 11:00 AM-11:50 AM
+ 0
+ 48
+ Tursonjan Tokay
+ 7E.529 - cap:104
+ BIOL 305
+ 2Lb
+ Introduction to Microbiology with Lab
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 12:00 PM-02:50 PM
+ 0
+ 18
+ Assem Duisembekova
+ 9.228 - cap:40
+ BIOL 305
+ 4Lb
+ Introduction to Microbiology with Lab
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 03:00 PM-05:50 PM
+ 0
+ 18
+ Assem Duisembekova
+ 9.228 - cap:40
+ BIOL 305
+ 5Lb
+ Introduction to Microbiology with Lab
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 03:00 PM-05:50 PM
+ 0
+ 18
+ Aigerim Soltabayeva
+ 9.228 - cap:40
+ BIOL 305
+ 6Lb
+ Introduction to Microbiology with Lab
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 03:00 PM-05:50 PM
+ 0
+ 0
+ Assem Duisembekova
+ 9.228 - cap:40
+ BIOL 305
+ 1Lb
+ Introduction to Microbiology with Lab
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 12:00 PM-02:50 PM
+ 0
+ 18
+ Aigerim Soltabayeva
+ 7.407 - cap:20
+ BIOL 305
+ 3Lb
+ Introduction to Microbiology with Lab
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 03:00 PM-05:50 PM
+ 0
+ 18
+ Aigerim Soltabayeva
+ 7.407 - cap:20
+ BIOL 305
+ 1L
+ Introduction to Microbiology with Lab
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 01:30 PM-02:45 PM
+ 0
+ 48
+ Damira Kanayeva
+ 7E.529 - cap:104
+ BIOL 305
+ 2L
+ Introduction to Microbiology with Lab
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 04:30 PM-05:45 PM
+ 0
+ 48
+ Zhanat Muminova
+ 7E.529 - cap:104
+ BIOL 320
+ 1L
+ Developmental Biology
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 48
+ Zhanat Muminova
+ 7.105 - cap:80
+ BIOL 320
+ 1R
+ Developmental Biology
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 04:00 PM-04:50 PM
+ 0
+ 48
+ Zhanat Muminova
+ 7.105 - cap:80
+ BIOL 340
+ 1L
+ Introduction to Bioinformatics with Lab
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 28
+ Christian Schoenbach
+ 7.507 - cap:60
+ BIOL 340
+ 1Lb
+ Introduction to Bioinformatics with Lab
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 05:00 PM-06:50 PM
+ 0
+ 28
+ Christian Schoenbach
+ 7.522 - cap:30
+ BIOL 341
+ 1L
+ Biochemistry I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 01:00 PM-01:50 PM
+ 0
+ 48
+ Timo Burster
+ 7E.529 - cap:104
+ BIOL 341
+ 1R
+ Biochemistry I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 06:00 PM-07:15 PM
+ 0
+ 48
+ Timo Burster
+ 7E.529 - cap:104
+ BIOL 352
+ 1L
+ Biology of Cancer
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 03:00 PM-04:15 PM
+ 0
+ 72
+ Jeanette Kunz Halder
+ 7E.529 - cap:104
+ BIOL 355
+ 1L
+ Critical Research Reasoning
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 09:00 AM-09:50 AM
+ 0
+ 24
+ TBA TBA
+ 7.507 - cap:60
+ BIOL 355
+ 2L
+ Critical Research Reasoning
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 10:00 AM-10:50 AM
+ 0
+ 24
+ Otilia Nuta
+ 7.507 - cap:60
+ BIOL 355
+ 3L
+ Critical Research Reasoning
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ WF M
+ 11:00 AM-11:50 AM
+ 0
+ 24
+ Otilia Nuta
+ 7.507 - cap:60
+ BIOL 355
+ 4L
+ Critical Research Reasoning
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 24
+ yingqiu Xie
+ 7.507 - cap:60
+ BIOL 370
+ 1L
+ Genetics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-01:15 PM
+ 0
+ 48
+ Gonzalo Hap Hortelano
+ 7.507 - cap:60
+ BIOL 385
+ 1L
+ Cell signaling: principles and mechanisms
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 02:00 PM-02:50 PM
+ 0
+ 48
+ Anna Andreeva
+ 7E.529 - cap:104
+ BIOL 410
+ 1L
+ Introduction to Immunology
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 03:00 PM-03:50 PM
+ 0
+ 48
+ Timo Burster
+ 7E.529 - cap:104
+ BIOL 425
+ 1L
+ Biomedical Research Methods
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 04:30 PM-05:45 PM
+ 0
+ 32
+ Dos Sarbassov
+ 7.507 - cap:60
+ BIOL 425
+ 1R
+ Biomedical Research Methods
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 06:00 PM-07:15 PM
+ 0
+ 32
+ Dos Sarbassov
+ 7.507 - cap:60
+ BIOL 455
+ 1L
+ Biotechnology
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 01:30 PM-02:45 PM
+ 0
+ 48
+ Erlan Ramankulov
+ 7.507 - cap:60
+ BIOL 470
+ 1L
+ Advanced Cell Biology
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 03:00 PM-04:15 PM
+ 0
+ 48
+ Ivan Vorobyev
+ 7.507 - cap:60
+ BIOL 490
+ 1BLb
+ Graduation Project 1
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ S
+ 10:00 AM-11:50 AM
+ 0
+ 16
+ Zhanat Muminova
+ 7.507 - cap:60
+ BIOL 492
+ 1Wsh
+ Directed Study in Biology
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ S
+ 12:00 PM-02:50 PM
+ 0
+ 16
+ Jeanette Kunz Halder
+ 7.507 - cap:60
+ CEE 200
+ 1T
+ Structural Mechanics I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 05:00 PM-05:50 PM
+ 0
+ 80
+ Asma Perveen, Igor Kolyagin, Didier Talamona
+ 3.302 - cap:80
+ CEE 200
+ 2T
+ Structural Mechanics I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 11:00 AM-11:50 AM
+ 0
+ 80
+ Asma Perveen, Igor Kolyagin, Didier Talamona
+ 3.302 - cap:80
+ CEE 200
+ 1L
+ Structural Mechanics I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 09:00 AM-09:50 AM
+ 0
+ 95
+ Asma Perveen, Igor Kolyagin, Didier Talamona
+ 3E.220 - cap:95
+ CEE 200
+ 2L
+ Structural Mechanics I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 10:00 AM-10:50 AM
+ 0
+ 95
+ Asma Perveen, Igor Kolyagin, Didier Talamona
+ 3E.224 - cap:95
+ CEE 200
+ 1Lb
+ Structural Mechanics I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 04:00 PM-05:50 PM
+ 0
+ 80
+ Asma Perveen, Igor Kolyagin, Didier Talamona
+ 3E.328 - cap:20
+ CEE 200
+ 2Lb
+ Structural Mechanics I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 11:00 AM-12:50 PM
+ 0
+ 80
+ Asma Perveen, Igor Kolyagin, Didier Talamona
+ 3E.328 - cap:20
+ CEE 201
+ 1T
+ Environmental Chemistry
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 04:00 PM-04:50 PM
+ 0
+ 80
+ Woojin Lee, Almagul Zhakiyenova
+ 3.302 - cap:80
+ CEE 201
+ 1L
+ Environmental Chemistry
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 02:00 PM-02:50 PM
+ 0
+ 95
+ Woojin Lee, Almagul Zhakiyenova
+ 3E.220 - cap:95
+ CEE 201
+ 2T
+ Environmental Chemistry
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 04:00 PM-04:50 PM
+ 0
+ 60
+ Woojin Lee, Almagul Zhakiyenova
+ 3E.223 - cap:63
+ CEE 201
+ 2L
+ Environmental Chemistry
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 09:00 AM-09:50 AM
+ 0
+ 95
+ Woojin Lee, Almagul Zhakiyenova
+ 3E.224 - cap:95
+ CEE 201
+ 1Lb
+ Environmental Chemistry
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 11:00 AM-12:50 PM
+ 0
+ 40
+ Woojin Lee, Almagul Zhakiyenova
+ 3E.120 - cap:15
+ CEE 201
+ 2Lb
+ Environmental Chemistry
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 04:00 PM-05:50 PM
+ 0
+ 40
+ Woojin Lee, Almagul Zhakiyenova
+ 3E.120 - cap:15
+ CEE 201
+ 3Lb
+ Environmental Chemistry
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 11:00 AM-12:50 PM
+ 0
+ 40
+ Woojin Lee, Almagul Zhakiyenova
+ 3E.120 - cap:15
+ CEE 201
+ 4Lb
+ Environmental Chemistry
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 09:00 AM-10:50 AM
+ 0
+ 40
+ Woojin Lee, Almagul Zhakiyenova
+ 3E.120 - cap:15
+ CEE 204
+ 1CLb
+ Civil Engineering CAD and Surveying
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 11:00 AM-12:50 PM
+ 0
+ 40
+ Serik Tokbolat, Dina Kaskina, Jay Sagin
+ 6.522 - cap:45
+ CEE 204
+ 2CLb
+ Civil Engineering CAD and Surveying
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 11:00 AM-12:50 PM
+ 0
+ 40
+ Serik Tokbolat, Dina Kaskina, Jay Sagin
+ 6.522 - cap:45
+ CEE 204
+ 1L
+ Civil Engineering CAD and Surveying
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 10:00 AM-10:50 AM
+ 0
+ 95
+ Serik Tokbolat, Dina Kaskina, Jay Sagin
+ 3E.220 - cap:95
+ CEE 204
+ 1Lb
+ Civil Engineering CAD and Surveying
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 11:00 AM-11:50 AM
+ 0
+ 40
+ Serik Tokbolat, Dina Kaskina, Jay Sagin
+ 3E.133 - cap:10
+ CEE 204
+ 2Lb
+ Civil Engineering CAD and Surveying
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 11:00 AM-11:50 AM
+ 0
+ 40
+ Serik Tokbolat, Dina Kaskina, Jay Sagin
+ 3E.133 - cap:10
+ CHEM 090
+ 1L
+ Chemistry for Non-Science majors * For non-science majors
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW
+ 03:00 PM-03:50 PM
+ 0
+ 24
+ Saule Issayeva
+ 7.105 - cap:80
+ CHEM 090
+ 1ChLb
+ Chemistry forNon-Science majors *For non-science majors
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 09:00 AM-12:00 PM
+ 0
+ 24
+ Saule Issayeva
+ 7.307 - cap:15
+ CHEM 091
+ 2L
+ Survey of Physical Science
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-01:15 PM
+ 0
+ 72
+ TBA TBA
+ 7.105 - cap:80
+ CHEM 091
+ 1L
+ Survey of Physical Science
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-01:15 PM
+ 0
+ 72
+ Abdulla Azzam Mahboob
+ 7E.329 - cap:105
+ CHEM 101
+ 1L
+ General Chemistry I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 01:30 PM-02:45 PM
+ 0
+ 72
+ Darkhan Utepbergenov
+ 7E.329 - cap:105
+ CHEM 101
+ 2L
+ General Chemistry I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 03:00 PM-04:15 PM
+ 0
+ 72
+ TBA TBA
+ 7E.329 - cap:105
+ CHEM 101L
+ 1ChLb
+ General Chemistry I lab
+ 1.0
+ 2
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 09:00 AM-11:50 AM
+ 0
+ 24
+ Roza Demeisinova
+ 9.210 - cap:40
+ CHEM 101L
+ 2ChLb
+ General Chemistry I lab
+ 1.0
+ 2
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 12:00 PM-02:50 PM
+ 0
+ 24
+ Saule Issayeva
+ 9.210 - cap:40
+ CHEM 101L
+ 3ChLb
+ General Chemistry I lab
+ 1.0
+ 2
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 09:00 AM-11:50 AM
+ 0
+ 24
+ Saule Issayeva
+ 9.210 - cap:40
+ CHEM 101L
+ 4ChLb
+ General Chemistry I lab
+ 1.0
+ 2
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 12:00 PM-02:50 PM
+ 0
+ 24
+ Roza Demeisinova
+ 9.210 - cap:40
+ CHEM 101L
+ 5ChLb
+ General Chemistry I lab
+ 1.0
+ 2
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 09:00 AM-11:50 AM
+ 0
+ 24
+ Timur Atabaev
+ 9.210 - cap:40
+ CHEM 101L
+ 6ChLb
+ General Chemistry I lab
+ 1.0
+ 2
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 12:00 PM-02:50 PM
+ 0
+ 24
+ TBA TBA
+ 9.210 - cap:40
+ CHEM 102
+ 1L
+ General Chemistry II
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 24
+ Roza Demeisinova
+ 7E.329 - cap:105
+ CHEM 211
+ 2L
+ Organic Chemistry I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 60
+ Vsevolod Peshkov
+ 7.105 - cap:80
+ CHEM 211
+ 1L
+ Organic Chemistry I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 60
+ Salimgerey Adilov
+ 7E.329 - cap:105
+ CHEM 211L
+ 1Lb
+ Organic Chemistry I Lab
+ 2.0
+ 4
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 03:00 PM-05:50 PM
+ 0
+ 24
+ Davit Hayrapetyan
+ 7.307 - cap:15
+ CHEM 211L
+ 2Lb
+ Organic Chemistry I Lab
+ 2.0
+ 4
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 03:00 PM-05:50 PM
+ 0
+ 24
+ Salimgerey Adilov
+ 7.307 - cap:15
+ CHEM 211L
+ 3Lb
+ Organic Chemistry I Lab
+ 2.0
+ 4
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 03:00 PM-05:50 PM
+ 0
+ 24
+ Salimgerey Adilov
+ 7.307 - cap:15
+ CHEM 211L
+ 4Lb
+ Organic Chemistry I Lab
+ 2.0
+ 4
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 03:00 PM-05:50 PM
+ 0
+ 24
+ Davit Hayrapetyan
+ 7.307 - cap:15
+ CHEM 211L
+ 5Lb
+ Organic Chemistry I Lab
+ 2.0
+ 4
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 03:00 PM-05:50 PM
+ 0
+ 24
+ Abdulla Azzam Mahboob
+ 7.307 - cap:15
+ CHEM 220
+ 1L
+ Quantitative Chemical Analysis
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-01:15 PM
+ 0
+ 32
+ Rostislav Bukasov
+ 7.105 - cap:80
+ CHEM 331
+ 1L
+ Physical Chemistry I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 10:00 AM-10:50 AM
+ 0
+ 24
+ Haiyan Fan
+ 7.105 - cap:80
+ CHEM 331L
+ 1ChLb
+ Physical Chemistry Lab
+ 1.0
+ 2
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 03:00 PM-05:50 PM
+ 0
+ 24
+ Haiyan Fan
+ 7.310 - cap:15
+ CHEM 341
+ 1L
+ Biochemistry I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 01:00 PM-01:50 PM
+ 0
+ 24
+ Darkhan Utepbergenov
+ 7.105 - cap:80
+ CHEM 341L
+ 1ChLb
+ Biochemistry I Lab
+ 1.0
+ 2
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 03:00 PM-05:50 PM
+ 0
+ 24
+ Darkhan Utepbergenov
+ 7.407 - cap:20
+ CHEM 400
+ 1S
+ Chemistry Seminar
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 03:00 PM-05:50 PM
+ 0
+ 26
+ Mannix Balanay
+ 7.105 - cap:80
+ CHEM 410
+ 1L
+ Structural Spectroscopy
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 11:00 AM-11:50 AM
+ 0
+ 24
+ Abdulla Azzam Mahboob
+ 7.105 - cap:80
+ CHEM 450
+ 1L
+ Advanced Inorganic Chemistry
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 09:00 AM-09:50 AM
+ 0
+ 24
+ Andrey Khalimon
+ 7.105 - cap:80
+ CHEM 471
+ 1L
+ Environmental Chemistry
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 04:00 PM-06:50 PM
+ 0
+ 48
+ Mannix Balanay
+ 7.105 - cap:80
+ CHEM 490
+ 1L
+ Nanochemistry
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 12:00 PM-12:50 PM
+ 0
+ 24
+ Timur Atabaev
+ 7.105 - cap:80
+ CHME 200
+ 1L
+ Basic Principles and Calculations in Chemical Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 09:00 AM-09:50 AM
+ 0
+ 50
+ Dhawal Shah, Saltanat Ospanova, Cevat Erisken
+ 3E.221 - cap:53
+ CHME 201
+ 1L
+ Chemical Engineering Thermodynamics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 10:00 AM-10:50 AM
+ 0
+ 53
+ Dhawal Shah, Aibar Nurmukhanov
+ 3E.221 - cap:53
+ CHME 222
+ 1Lb
+ Inorganic and Analytical Chemistry
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 02:00 PM-05:50 PM
+ 0
+ 30
+ Gulnur Kalimuldina, Jorge Ona Ruales
+ 3.143 - cap:25
+ CHME 222
+ 2Lb
+ Inorganic and Analytical Chemistry
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 02:00 PM-05:50 PM
+ 0
+ 30
+ Gulnur Kalimuldina, Jorge Ona Ruales
+ 3.143 - cap:25
+ CHME 222
+ 1T
+ Inorganic and Analytical Chemistry
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 11:00 AM-11:50 AM
+ 0
+ 40
+ Gulnur Kalimuldina, Jorge Ona Ruales
+ 3.322 - cap:40
+ CHME 222
+ 1L
+ Inorganic and Analytical Chemistry
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 03:00 PM-03:50 PM
+ 0
+ 40
+ Gulnur Kalimuldina, Jorge Ona Ruales
+ 3E.221 - cap:53
+ CHN 101
+ 1L
+ Beginning Mandarin I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MT W R
+ 11:00 AM-11:50 AM
+ 0
+ 20
+ Lili Zhang
+ 8.317 - cap:24
+ CHN 101
+ 2L
+ Beginning Mandarin I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MT W R
+ 12:00 PM-12:50 PM
+ 0
+ 20
+ Lili Zhang
+ 8.317 - cap:24
+ CHN 102
+ 2L
+ Beginning Mandarin II
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MT W R
+ 09:00 AM-09:50 AM
+ 0
+ 20
+ Ya-Wen Hsieh
+ 7.517 - cap:27
+ CHN 102
+ 3L
+ Beginning Mandarin II
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MT W R
+ 10:00 AM-10:50 AM
+ 0
+ 20
+ Ya-Wen Hsieh
+ 7.517 - cap:27
+ CHN 202
+ 1L
+ Intermediate Mandarin II
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MT W R
+ 01:00 PM-01:50 PM
+ 0
+ 15
+ Lili Zhang
+ 8.317 - cap:24
+ COMM 202
+ 1L
+ Introduction to Public Speaking
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 11:00 AM-11:50 AM
+ 0
+ 20
+ Patricia Coleman
+ 6.419 - cap:28
+ COMM 202
+ 3L
+ Introduction to Public Speaking
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 01:00 PM-01:50 PM
+ 0
+ 20
+ Robert Winter-Jr
+ 8.141 - cap:24
+ COMM 202
+ 4L
+ Introduction to Public Speaking
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 03:00 PM-03:50 PM
+ 0
+ 20
+ Robert Winter-Jr
+ 8.141 - cap:24
+ CSCI 101
+ 1L
+ Introduction to Computational Sciences
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 0
+ Mona Rizvi
+ 7E.217 - cap:24
+ CSCI 101
+ 2L
+ Introduction to Computational Sciences
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-01:15 PM
+ 0
+ 0
+ Mona Rizvi
+ 7E.217 - cap:24
+ CSCI 111
+ 1L
+ Web Programming & Problem Solving
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 09:00 AM-09:50 AM
+ 0
+ 28
+ Askar Boranbayev
+ 7E.217 - cap:24
+ CSCI 111
+ 2L
+ Web Programming & Problem Solving
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 11:00 AM-11:50 AM
+ 0
+ 28
+ Mark Sterling
+ 7E.217 - cap:24
+ CSCI 151
+ 1CLb
+ Programming for Scientists and Engineers
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 09:00 AM-10:50 AM
+ 0
+ 28
+ Nazgul Tazhigaliyeva
+ 7.522 - cap:30
+ CSCI 151
+ 2CLb
+ Programming for Scientists and Engineers
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 11:00 AM-12:50 PM
+ 0
+ 28
+ Nazgul Tazhigaliyeva
+ 7.522 - cap:30
+ CSCI 151
+ 3CLb
+ Programming for Scientists and Engineers
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 01:00 PM-02:50 PM
+ 0
+ 28
+ Aigerim Yessenbayeva
+ 7.522 - cap:30
+ CSCI 151
+ 4CLb
+ Programming for Scientists and Engineers
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 03:00 PM-04:50 PM
+ 0
+ 28
+ Aigerim Yessenbayeva
+ 7.522 - cap:30
+ CSCI 151
+ 5CLb
+ Programming for Scientists and Engineers
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 09:00 AM-10:50 AM
+ 0
+ 28
+ Nazgul Tazhigaliyeva
+ 7.522 - cap:30
+ CSCI 151
+ 6CLb
+ Programming for Scientists and Engineers
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 11:00 AM-12:50 PM
+ 0
+ 28
+ Nazgul Tazhigaliyeva
+ 7.522 - cap:30
+ CSCI 151
+ 7CLb
+ Programming for Scientists and Engineers
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 01:00 PM-02:50 PM
+ 0
+ 28
+ Aigerim Yessenbayeva
+ 7.522 - cap:30
+ CSCI 151
+ 8CLb
+ Programming for Scientists and Engineers
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 03:00 PM-04:50 PM
+ 0
+ 28
+ Aigerim Yessenbayeva
+ 7.522 - cap:30
+ CSCI 151
+ 9CLb
+ Programming for Scientists and Engineers
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 01:30 PM-02:45 PM
+ 0
+ 28
+ Aigerim Yessenbayeva
+ 7.522 - cap:30
+ CSCI 151
+ 10CLb
+ Programming for Scientists and Engineers
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 03:00 PM-04:15 PM
+ 0
+ 28
+ Nazgul Tazhigaliyeva
+ 7.522 - cap:30
+ CSCI 151
+ 11CLb
+ Programming for Scientists and Engineers
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 04:30 PM-05:45 PM
+ 0
+ 28
+ Aigerim Yessenbayeva
+ 7.522 - cap:30
+ CSCI 151
+ 1L
+ Programming for Scientists and Engineers
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 09:00 AM-10:15 AM
+ 0
+ 96
+ Antonio Cerone
+ 7E.429 - cap:103
+ CSCI 151
+ 2L
+ Programming for Scientists and Engineers
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 09:00 AM-10:15 AM
+ 0
+ 96
+ Muhammed Demirci
+ 7E.429 - cap:103
+ CSCI 151
+ 3L
+ Programming for Scientists and Engineers
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 03:00 PM-04:15 PM
+ 0
+ 96
+ Sain Saginbekov
+ 7E.429 - cap:103
+ CSCI 231
+ 1Lb
+ Computer Systems and Organization
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 11:00 AM-11:50 AM
+ 0
+ 30
+ Jurn Gyu Park
+ 7.522 - cap:30
+ CSCI 231
+ 2Lb
+ Computer Systems and Organization
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 12:00 PM-12:50 PM
+ 0
+ 30
+ Jurn Gyu Park
+ 7.522 - cap:30
+ CSCI 231
+ 3Lb
+ Computer Systems and Organization
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 01:00 PM-01:50 PM
+ 0
+ 30
+ Sain Saginbekov
+ 7.522 - cap:30
+ CSCI 231
+ 4Lb
+ Computer Systems and Organization
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 02:00 PM-02:50 PM
+ 0
+ 30
+ Jurn Gyu Park
+ 7.522 - cap:30
+ CSCI 231
+ 5Lb
+ Computer Systems and Organization
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 03:00 PM-03:50 PM
+ 0
+ 30
+ Sain Saginbekov
+ 7.522 - cap:30
+ CSCI 231
+ 6Lb
+ Computer Systems and Organization
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 04:00 PM-04:50 PM
+ 0
+ 30
+ Sain Saginbekov
+ 7.522 - cap:30
+ CSCI 231
+ 1L
+ Computer Systems and Organization
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW
+ 11:00 AM-11:50 AM
+ 0
+ 90
+ Jurn Gyu Park
+ 7E.429 - cap:103
+ CSCI 231
+ 2L
+ Computer Systems and Organization
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW
+ 01:00 PM-01:50 PM
+ 0
+ 90
+ Sain Saginbekov
+ 7E.429 - cap:103
+ CSCI 235
+ 1Lb
+ Programming Languages
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 09:00 AM-10:50 AM
+ 0
+ 30
+ Jean Marie Guillaume Gerard de Nivelle
+ 7.422 - cap:25
+ CSCI 235
+ 2Lb
+ Programming Languages
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 11:00 AM-12:50 PM
+ 0
+ 30
+ Ben Tyler
+ 7.422 - cap:25
+ CSCI 235
+ 3Lb
+ Programming Languages
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 03:00 PM-04:50 PM
+ 0
+ 30
+ Jean Marie Guillaume Gerard de Nivelle
+ 7.422 - cap:25
+ CSCI 235
+ 4Lb
+ Programming Languages
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 09:00 AM-10:50 AM
+ 0
+ 30
+ Jean Marie Guillaume Gerard de Nivelle
+ 7.422 - cap:25
+ CSCI 235
+ 5Lb
+ Programming Languages
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 11:00 AM-12:50 PM
+ 0
+ 30
+ Ben Tyler
+ 7.422 - cap:25
+ CSCI 235
+ 6Lb
+ Programming Languages
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 03:00 PM-04:50 PM
+ 0
+ 30
+ Ben Tyler
+ 7.422 - cap:25
+ CSCI 235
+ 1L
+ Programming Languages
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-01:15 PM
+ 0
+ 90
+ Jean Marie Guillaume Gerard de Nivelle
+ 7E.429 - cap:103
+ CSCI 235
+ 2L
+ Programming Languages
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 01:30 PM-02:45 PM
+ 0
+ 90
+ Ben Tyler
+ 7E.429 - cap:103
+ CSCI 262
+ 1L
+ Software Project Management
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 01:30 PM-02:45 PM
+ 0
+ 48
+ Askar Boranbayev
+ 7.246 - cap:54
+ CSCI 281
+ 1L
+ Human-Computer Interaction
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 28
+ Antonio Cerone
+ 7.422 - cap:25
+ CSCI 341
+ 1L
+ Database Systems
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 03:00 PM-03:50 PM
+ 0
+ 96
+ Mona Rizvi
+ 7E.429 - cap:103
+ CSCI 344
+ 1L
+ Data Mining and Decision Support
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 01:30 PM-02:45 PM
+ 0
+ 28
+ Jurn Gyu Park
+ 7.422 - cap:25
+ CSCI 361
+ 1Lb
+ Software Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 02:00 PM-02:50 PM
+ 0
+ 30
+ Mark Sterling
+ 7.422 - cap:25
+ CSCI 361
+ 2Lb
+ Software Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 03:00 PM-03:50 PM
+ 0
+ 30
+ Anh Tu Nguyen
+ 7.422 - cap:25
+ CSCI 361
+ 3Lb
+ Software Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 04:00 PM-04:50 PM
+ 0
+ 30
+ Mao Bui
+ 7.422 - cap:25
+ CSCI 361
+ 1L
+ Software Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW
+ 02:00 PM-02:50 PM
+ 0
+ 90
+ Mark Sterling, Mao Bui, Anh Tu Nguyen
+ 7E.429 - cap:103
+ CSCI 390
+ 1L
+ Artificial Intelligence
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 96
+ Mao Bui, Anh Tu Nguyen
+ 7E.429 - cap:103
+ CSCI 408
+ 1L
+ Senior Project I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 02:00 PM-02:50 PM
+ 0
+ 55
+ Ben Tyler, Adnan Yazici, Mao Bui, Kok Seng Wong
+ 7E.429 - cap:103
+ CSCI 434
+ 1L
+ Information Security
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-01:15 PM
+ 0
+ 26
+ Michael Lewis
+ 7.422 - cap:25
+ CSCI 471
+ 1L
+ Complexity and Computability
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 04:00 PM-04:50 PM
+ 0
+ 48
+ Ali Kemal Sinop
+ 7E.429 - cap:103
+ CSCI 494
+ 1Lb
+ Deep Learning
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 12:00 PM-12:50 PM
+ 0
+ 28
+ Adnan Yazici
+ 7.422 - cap:25
+ CSCI 494
+ 2Lb
+ Deep Learning
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 01:00 PM-01:50 PM
+ 0
+ 28
+ Adnan Yazici
+ 7.422 - cap:25
+ CSCI 494
+ 1L
+ Deep Learning
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW
+ 12:00 PM-12:50 PM
+ 0
+ 56
+ Adnan Yazici
+ 7E.429 - cap:103
+ ECE 214
+ 1L
+ Geomatics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 01:00 PM-01:50 PM
+ 0
+ 28
+ Dina Kaskina, Jay Sagin
+ 3.317 - cap:40
+ ECE 214
+ 1Lb
+ Geomatics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 09:00 AM-10:50 AM
+ 0
+ 28
+ Dina Kaskina, Jay Sagin
+ 3E.217 - cap:28
+ ECE 303
+ 1L
+ Construction Management and Practice
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 02:00 PM-02:50 PM
+ 0
+ 60
+ Ferhat Karaca, Bakhyt Aubakirova
+ 3.302 - cap:80
+ ECE 307
+ 1L
+ Engineering Geology and Rock Mechanics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 05:00 PM-05:50 PM
+ 0
+ 95
+ Mert Guney, Aigerim Zhexembayeva
+ 3E.224 - cap:95
+ ECE 307
+ 1Lb
+ Engineering Geology and Rock Mechanics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 09:00 AM-10:50 AM
+ 0
+ 30
+ Mert Guney, Aigerim Zhexembayeva
+ 3E.143 - cap:8
+ ECE 307
+ 2Lb
+ Engineering Geology and Rock Mechanics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 09:00 AM-10:50 AM
+ 0
+ 30
+ Mert Guney, Aigerim Zhexembayeva
+ 3E.143 - cap:8
+ ECE 318
+ 1CLb
+ Structural Design - Concrete
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 11:00 AM-11:50 AM
+ 0
+ 60
+ Deuckhang Lee, Aigul Mussabayeva
+ 3.323 - cap:60
+ ECE 318
+ 1T
+ Structural Design - Concrete
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 01:00 PM-01:50 PM
+ 0
+ 80
+ Deuckhang Lee, Aigul Mussabayeva
+ 3.302 - cap:80
+ ECE 318
+ 1L
+ Structural Design - Concrete
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 04:00 PM-04:50 PM
+ 0
+ 95
+ Deuckhang Lee, Aigul Mussabayeva
+ 3E.224 - cap:95
+ ECE 401
+ 1CLb
+ Capstone Project 1
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ S
+ 09:00 AM-11:50 AM
+ 0
+ 60
+ Deuckhang Lee, Bakhyt Aubakirova
+ 6.522 - cap:45
+ ECE 404
+ 1L
+ Construction Technologies and Processes
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 60
+ Chang Shon, Assel Nugmanova
+ 3.302 - cap:80
+ ECE 405
+ 1CLb
+ Environmental Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 01:00 PM-03:50 PM
+ 0
+ 30
+ Yelyzaveta Arkhangelsky, Almagul Zhakiyenova
+ 6.522 - cap:45
+ ECE 405
+ 2CLb
+ Environmental Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 03:00 PM-05:50 PM
+ 0
+ 30
+ Yelyzaveta Arkhangelsky, Almagul Zhakiyenova
+ 6.522 - cap:45
+ ECE 405
+ 1T
+ Environmental Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 02:00 PM-02:50 PM
+ 0
+ 60
+ Yelyzaveta Arkhangelsky, Almagul Zhakiyenova
+ 3.302 - cap:80
+ ECE 405
+ 1L
+ Environmental Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 12:00 PM-12:50 PM
+ 0
+ 60
+ Yelyzaveta Arkhangelsky, Almagul Zhakiyenova
+ 3E.224 - cap:95
+ ECE 405
+ 1CLb
+ Environmental Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 01:00 PM-03:50 PM
+ 0
+ 30
+ Yelyzaveta Arkhangelsky, Almagul Zhakiyenova
+ 3E.120 - cap:15
+ ECE 405
+ 2CLb
+ Environmental Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 03:00 PM-05:50 PM
+ 0
+ 30
+ Yelyzaveta Arkhangelsky, Almagul Zhakiyenova
+ 3E.120 - cap:15
+ ECE 416
+ 1L
+ Highway Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 11:00 AM-11:50 AM
+ 0
+ 95
+ Chang Shon, Assel Nugmanova
+ 3E.220 - cap:95
+ ECE 421
+ 1L
+ Behaviour and Design of Structural System
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 03:00 PM-03:50 PM
+ 0
+ 40
+ Dichuan Zhang, Aigul Mussabayeva
+ 3.316 - cap:40
+ ECE 481
+ 1L
+ Individual Research Projects in Civil Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 04:30 PM-05:45 PM
+ 0
+ 60
+ Shazim Memon, Sung Moon, Alina Irsainova
+ 3.302 - cap:80
+ ECE 481
+ 1Lb
+ Individual Research Projects in Civil Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 09:00 AM-12:50 PM
+ 0
+ 60
+ Shazim Memon, Sung Moon, Alina Irsainova
+ 3E.120 - cap:15
+ ECE 482
+ 1L
+ Solid and Hazardous Waste Management
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 03:00 PM-04:15 PM
+ 0
+ 40
+ Mert Guney, Almagul Zhakiyenova
+ 3.317 - cap:40
+ ECHE 333
+ 1Lb
+ Separation Processes-I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 03:00 PM-05:50 PM
+ 0
+ 25
+ Vasileios Inglezakis, Almira Yagofarova, Yerbol Sarbassov
+ 3.143 - cap:25
+ ECHE 333
+ 2Lb
+ Separation Processes-I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 04:00 PM-06:50 PM
+ 0
+ 25
+ Vasileios Inglezakis, Almira Yagofarova, Yerbol Sarbassov
+ 3.143 - cap:25
+ ECHE 333
+ 1T
+ Separation Processes-I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 01:00 PM-01:50 PM
+ 0
+ 50
+ Vasileios Inglezakis, Almira Yagofarova, Yerbol Sarbassov
+ 3.323 - cap:60
+ ECHE 333
+ 1L
+ Separation Processes-I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 01:00 PM-01:50 PM
+ 0
+ 50
+ Vasileios Inglezakis, Almira Yagofarova, Yerbol Sarbassov
+ 3E.221 - cap:53
+ ECHE 369
+ 1CLb
+ Transport Phenomena-II
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 11:00 AM-12:50 PM
+ 0
+ 53
+ Sergey Spotar, Ardak Makhatova
+ 3.323 - cap:60
+ ECHE 369
+ 1L
+ Transport Phenomena-II
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 12:00 PM-12:50 PM
+ 0
+ 53
+ Sergey Spotar, Ardak Makhatova
+ 3E.221 - cap:53
+ ECHE 385
+ 1L
+ Research Practice
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 02:00 PM-02:50 PM
+ 0
+ 50
+ Gulnur Kalimuldina, Torkmahalleh Amouei
+ 3E.221 - cap:53
+ ECHE 418
+ 1CLb
+ Capstone project 1
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ S
+ 09:00 AM-11:50 AM
+ 0
+ 28
+ Boris Golman, Aknur Baibatyrova, Ming Yang, Ruben Mercade Prieto
+ 3E.227 - cap:28
+ ECHE 463
+ 1L
+ Introduction to Molecular Modeling Methods
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 28
+ Ardak Makhatova, Yanwei Wang
+ 3.322 - cap:40
+ ECHE 463
+ 1CLb
+ Introduction to Molecular Modeling Methods
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 04:00 PM-06:50 PM
+ 0
+ 28
+ Ardak Makhatova, Yanwei Wang
+ 3E.227 - cap:28
+ ECHE 478
+ 1L
+ Electrochemical Engineering and Corrosion Protection
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 05:00 PM-05:50 PM
+ 0
+ 40
+ Almagul Mentbayeva
+ 3.317 - cap:40
+ ECHE 478
+ 1Lb
+ Electrochemical Engineering and Corrosion Protection
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 10:00 AM-12:50 PM
+ 0
+ 40
+ Almagul Mentbayeva
+ 3E.422 - cap:20
+ ECHE 481
+ 1CLb
+ Chemical Reaction Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 12:00 PM-12:50 PM
+ 0
+ 50
+ Vasileios Inglezakis, Gaukhar Ulykbanova, Stavros Poulopoulos
+ 3.323 - cap:60
+ ECHE 481
+ 1L
+ Chemical Reaction Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 11:00 AM-11:50 AM
+ 0
+ 50
+ Vasileios Inglezakis, Gaukhar Ulykbanova, Stavros Poulopoulos
+ 3E.221 - cap:53
+ ECHE 481
+ 1Lb
+ Chemical Reaction Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 02:00 PM-03:50 PM
+ 0
+ 17
+ Vasileios Inglezakis, Gaukhar Ulykbanova, Stavros Poulopoulos
+ 3E.420 - cap:20
+ ECHE 481
+ 2Lb
+ Chemical Reaction Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 03:00 PM-04:50 PM
+ 0
+ 17
+ Vasileios Inglezakis, Gaukhar Ulykbanova, Stavros Poulopoulos
+ 3E.420 - cap:20
+ ECHE 481
+ 3Lb
+ Chemical Reaction Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 03:00 PM-04:50 PM
+ 0
+ 17
+ Vasileios Inglezakis, Gaukhar Ulykbanova, Stavros Poulopoulos
+ 3E.420 - cap:20
+ ECHE 481
+ 1Lb
+ Chemical Reaction Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 02:00 PM-03:50 PM
+ 0
+ 17
+ Vasileios Inglezakis, Gaukhar Ulykbanova, Stavros Poulopoulos
+ 3E.429 - cap:15
+ ECHE 481
+ 2Lb
+ Chemical Reaction Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 03:00 PM-04:50 PM
+ 0
+ 17
+ Vasileios Inglezakis, Gaukhar Ulykbanova, Stavros Poulopoulos
+ 3E.429 - cap:15
+ ECHE 481
+ 3Lb
+ Chemical Reaction Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 03:00 PM-04:50 PM
+ 0
+ 17
+ Vasileios Inglezakis, Gaukhar Ulykbanova, Stavros Poulopoulos
+ 3E.429 - cap:15
+ ECHE 484
+ 1CLb
+ Multi-Phase Flows
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 02:00 PM-03:50 PM
+ 0
+ 40
+ Sergey Spotar, Aibar Nurmukhanov
+ 3.323 - cap:60
+ ECHE 484
+ 1L
+ Multi-Phase Flows
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 09:00 AM-09:50 AM
+ 0
+ 40
+ Sergey Spotar, Aibar Nurmukhanov
+ 3.322 - cap:40
+ ECHE 486
+ 1L
+ Chemical Process Safety
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 10:00 AM-10:50 AM
+ 0
+ 28
+ Ming Yang, Dan Chen
+ 3.322 - cap:40
+ ECHE 486
+ 1T
+ Chemical Process Safety
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 02:00 PM-03:50 PM
+ 0
+ 28
+ Ming Yang, Dan Chen
+ 3E.227 - cap:28
+ ECHE 487
+ 1L
+ Soft Matter, Foods and Colloids
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 11:00 AM-11:50 AM
+ 0
+ 40
+ Aknur Baibatyrova, Ruben Mercade Prieto
+ 3.322 - cap:40
+ ECHE 488
+ 1L
+ Atmospheric Chemistry and Physics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 12:00 PM-12:50 PM
+ 0
+ 28
+ Torkmahalleh Amouei, Aknur Baibatyrova
+ 3E.217 - cap:28
+ ECHE 488
+ 1Lb
+ Atmospheric Chemistry and Physics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 10:00 AM-11:50 AM
+ 0
+ 28
+ Torkmahalleh Amouei, Aknur Baibatyrova
+ 3E.432 - cap:20
+ ECON 101
+ 3T
+ Introduction to Microeconomics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 04:00 PM-04:50 PM
+ 0
+ 50
+ TBA TBA
+ 8.327 - cap:60
+ ECON 101
+ 1T
+ Introduction to Microeconomics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 01:00 PM-01:50 PM
+ 0
+ 50
+ TBA TBA
+ 8.307 - cap:60
+ ECON 101
+ 2T
+ Introduction to Microeconomics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 02:00 PM-02:50 PM
+ 0
+ 50
+ TBA TBA
+ 8.307 - cap:60
+ ECON 101
+ 4T
+ Introduction to Microeconomics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 05:00 PM-05:50 PM
+ 0
+ 50
+ TBA TBA
+ 8.307 - cap:60
+ ECON 101
+ 1L
+ Introduction to Microeconomics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW
+ 11:30 AM-12:45 PM
+ 0
+ 120
+ TBA TBA
+ Green Hall - cap:239
+ ECON 102
+ 1T
+ Introduction to Macroeconomics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 09:00 AM-09:50 AM
+ 0
+ 50
+ TBA TBA
+ 8.327 - cap:60
+ ECON 102
+ 2T
+ Introduction to Macroeconomics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 10:00 AM-10:50 AM
+ 0
+ 50
+ TBA TBA
+ 8.327 - cap:60
+ ECON 102
+ 3T
+ Introduction to Macroeconomics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 12:00 PM-12:50 PM
+ 0
+ 50
+ TBA TBA
+ 8.327 - cap:60
+ ECON 102
+ 4T
+ Introduction to Macroeconomics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 01:00 PM-01:50 PM
+ 0
+ 50
+ TBA TBA
+ 8.154 - cap:60
+ ECON 102
+ 1L
+ Introduction to Macroeconomics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 120
+ Dana Bazarkulova
+ Green Hall - cap:239
+ ECON 201
+ 1L
+ Intermediate Microeconomics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW
+ 03:00 PM-04:15 PM
+ 0
+ 110
+ TBA TBA
+ Green Hall - cap:239
+ ECON 202
+ 1L
+ Intermediate Macroeconomics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW
+ 01:30 PM-02:45 PM
+ 0
+ 35
+ Zhanna Kapsalyamova
+ 8.307 - cap:60
+ ECON 211
+ 1T
+ Economic Statistics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 11:00 AM-11:50 AM
+ 0
+ 50
+ TBA TBA
+ 8.327 - cap:60
+ ECON 211
+ 2T
+ Economic Statistics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 01:00 PM-01:50 PM
+ 0
+ 50
+ TBA TBA
+ 8.327 - cap:60
+ ECON 211
+ 3T
+ Economic Statistics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 04:00 PM-04:50 PM
+ 0
+ 50
+ TBA TBA
+ 8.154 - cap:60
+ ECON 211
+ 1L
+ Economic Statistics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-01:15 PM
+ 0
+ 110
+ Vladyslav Nora
+ Green Hall - cap:239
+ ECON 301
+ 3T
+ Econometrics I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 05:00 PM-05:50 PM
+ 0
+ 50
+ TBA TBA
+ 8.327 - cap:60
+ ECON 301
+ 1T
+ Econometrics I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 03:00 PM-03:50 PM
+ 0
+ 50
+ TBA TBA
+ 8.307 - cap:60
+ ECON 301
+ 2T
+ Econometrics I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 04:00 PM-04:50 PM
+ 0
+ 50
+ TBA TBA
+ 8.307 - cap:60
+ ECON 301
+ 1L
+ Econometrics I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 01:30 PM-02:45 PM
+ 0
+ 110
+ Berk Yavuzoglu
+ Green Hall - cap:239
+ ECON 317
+ 1L
+ East Asian Economic Development
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW
+ 12:00 PM-01:15 PM
+ 0
+ 40
+ In Kim
+ 8.327 - cap:60
+ ECON 322
+ 1L
+ Natural Resources and Environmental Economics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW
+ 10:30 AM-11:45 AM
+ 0
+ 40
+ Zhanna Kapsalyamova
+ 8.327 - cap:60
+ ECON 325
+ 1L
+ International Trade
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-01:15 PM
+ 0
+ 40
+ Maxim Goryunov
+ 8.307 - cap:60
+ ECON 325
+ 2L
+ International Trade
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 01:30 PM-02:45 PM
+ 0
+ 40
+ Maxim Goryunov
+ 8.307 - cap:60
+ ECON 326
+ 1L
+ The Economics of Financial Markets
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW
+ 03:00 PM-04:15 PM
+ 0
+ 35
+ Giulio Seccia
+ 8.307 - cap:60
+ ECON 399
+ 1S
+ Independent Study in Economics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ S
+ 08:00 AM-08:50 AM
+ 0
+ 1
+ Berk Yavuzoglu
+ TBA - cap:0
+ ECON 403
+ 1L
+ Introduction to Contract Theory and Auctions
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW
+ 09:00 AM-10:15 AM
+ 0
+ 27
+ TBA TBA
+ 8.327 - cap:60
+ ECON 405
+ 1L
+ Behavioral and Experimental Economics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 27
+ Irina Kirysheva
+ 8.327 - cap:60
+ ECON 405
+ 2L
+ Behavioral and Experimental Economics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-01:15 PM
+ 0
+ 35
+ Irina Kirysheva
+ 8.302 - cap:60
+ ECON 413
+ 1L
+ Econometrics II
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 35
+ Iraj Rahmani
+ 8.154 - cap:60
+ ECON 417
+ 2L
+ Development Economics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 03:00 PM-04:15 PM
+ 0
+ 35
+ TBA TBA
+ 8.307 - cap:60
+ ECON 417
+ 1L
+ Development Economics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 01:30 PM-02:45 PM
+ 0
+ 27
+ TBA TBA
+ 8.154 - cap:60
+ EEE 238
+ 1CLb
+ Digital Signal and Image Processing
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 01:00 PM-02:50 PM
+ 0
+ 40
+ Behrouz Maham
+ 6.522 - cap:45
+ EEE 238
+ 2CLb
+ Digital Signal and Image Processing
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 01:00 PM-02:50 PM
+ 0
+ 40
+ Behrouz Maham
+ 6.522 - cap:45
+ EEE 238
+ 1L
+ Digital Signal and Image Processing
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 03:00 PM-03:50 PM
+ 0
+ 95
+ Behrouz Maham
+ 3E.220 - cap:95
+ EEE 342
+ 1T
+ Electromagnetics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 11:00 AM-11:50 AM
+ 0
+ 40
+ Daniele Tosi
+ 3.303 - cap:36
+ EEE 342
+ 2T
+ Electromagnetics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 11:00 AM-11:50 AM
+ 0
+ 40
+ Daniele Tosi
+ 3.303 - cap:36
+ EEE 342
+ 1L
+ Electromagnetics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 04:00 PM-04:50 PM
+ 0
+ 95
+ Daniele Tosi
+ 3E.220 - cap:95
+ EEE 345
+ 1T
+ Power Electronics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 11:00 AM-11:50 AM
+ 0
+ 40
+ Alexander Ruderman
+ 3.322 - cap:40
+ EEE 345
+ 2T
+ Power Electronics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 11:00 AM-11:50 AM
+ 0
+ 40
+ Alexander Ruderman
+ 3.303 - cap:36
+ EEE 345
+ 1L
+ Power Electronics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 03:00 PM-04:15 PM
+ 0
+ 95
+ Alexander Ruderman
+ 3E.220 - cap:95
+ EEE 345
+ 1Lb
+ Power Electronics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 09:00 AM-10:50 AM
+ 0
+ 18
+ Alexander Ruderman
+ 3E.333 - cap:25
+ EEE 345
+ 2Lb
+ Power Electronics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 01:00 PM-02:50 PM
+ 0
+ 18
+ Alexander Ruderman
+ 3E.333 - cap:25
+ EEE 345
+ 3Lb
+ Power Electronics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 09:00 AM-10:50 AM
+ 0
+ 18
+ Alexander Ruderman
+ 3E.333 - cap:25
+ EEE 345
+ 4Lb
+ Power Electronics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 09:00 AM-10:50 AM
+ 0
+ 18
+ Alexander Ruderman
+ 3E.333 - cap:25
+ EEE 382
+ 1Lb
+ Antennas and Propagation
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 02:00 PM-03:50 PM
+ 0
+ 28
+ Grant Ellis
+ 3.323 - cap:60
+ EEE 382
+ 1L
+ Antennas and Propagation
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 01:00 PM-01:50 PM
+ 0
+ 28
+ Grant Ellis
+ 3.309 - cap:45
+ EEE 384
+ 1Lb
+ Digital Integrated Circuits Design
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 09:00 AM-10:50 AM
+ 0
+ 40
+ Alex James
+ 6.522 - cap:45
+ EEE 384
+ 2Lb
+ Digital Integrated Circuits Design
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 09:00 AM-10:50 AM
+ 0
+ 40
+ Alex James
+ 6.522 - cap:45
+ EEE 384
+ 1L
+ Digital Integrated Circuits Design
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 05:00 PM-05:50 PM
+ 0
+ 95
+ Alex James
+ 3E.220 - cap:95
+ EEE 437
+ 1L
+ Capstone Project 1
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 04:30 PM-05:45 PM
+ 0
+ 40
+ Alex James
+ 3.317 - cap:40
+ EEE 437
+ 2L
+ Capstone Project 1
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 04:30 PM-05:45 PM
+ 0
+ 40
+ Mohammad Obaidat
+ 3.317 - cap:40
+ EEE 448
+ 1L
+ Power Transmission and Distribution plants
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 10:00 AM-10:50 AM
+ 0
+ 40
+ Mehdi Bagheri
+ 3.316 - cap:40
+ EEE 448
+ 1Lb
+ Power Transmission and Distribution plants
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 12:00 PM-01:50 PM
+ 0
+ 40
+ Mehdi Bagheri
+ 3.132 - cap:21
+ EEE 450
+ 1L
+ RF and Microwave Circuit Design
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 11:00 AM-11:50 AM
+ 0
+ 40
+ Mohammad Hashmi
+ 3.316 - cap:40
+ EEE 450
+ 1Lb
+ RF and Microwave Circuit Design
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 02:00 PM-03:50 PM
+ 0
+ 40
+ Mohammad Hashmi
+ 6.522 - cap:45
+ EEE 452
+ 1L
+ Power Systems Protection
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 01:00 PM-01:50 PM
+ 0
+ 40
+ Hema Satya Venkata Sivanand Kumar Nunna
+ 3.303 - cap:36
+ EEE 452
+ 1Lb
+ Power Systems Protection
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 02:00 PM-03:50 PM
+ 0
+ 40
+ Hema Satya Venkata Sivanand Kumar Nunna
+ 3.132 - cap:21
+ EEE 490
+ 1L
+ Introduction to Big Data
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 28
+ Amin Zollanvari
+ 3.317 - cap:40
+ EEE 490
+ 1Lb
+ Introduction to Big Data
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 02:00 PM-03:50 PM
+ 0
+ 28
+ Amin Zollanvari
+ 3E.217 - cap:28
+ EEE 493
+ 1L
+ Industry 4.0
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 09:00 AM-09:50 AM
+ 0
+ 40
+ Prashant Jamwal
+ 3.317 - cap:40
+ EEE 493
+ 2L
+ Industry 4.0
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 12:00 PM-12:50 PM
+ 0
+ 40
+ Refik Kizilirmak
+ 3.317 - cap:40
+ EEE 493
+ 1Lb
+ Industry 4.0
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 02:00 PM-03:50 PM
+ 0
+ 40
+ Prashant Jamwal
+ 3E.321 - cap:18
+ EEE 493
+ 2Lb
+ Industry 4.0
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 04:00 PM-05:50 PM
+ 0
+ 40
+ Refik Kizilirmak
+ 3E.321 - cap:18
+ EEE 494
+ 1Lb
+ Modern Characterizations for Semiconductor Industry
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 03:00 PM-05:50 PM
+ 0
+ 40
+ Annie Ng
+ TBA - cap:0
+ EEE 494
+ 1L
+ Modern Characterizations for Semiconductor Industry
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 40
+ Annie Ng
+ 3.316 - cap:40
+ EEE 497
+ 1L
+ Signal Processing for Communications
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 10:00 AM-10:50 AM
+ 0
+ 28
+ Galymzhan Nauryzbayev
+ 3.317 - cap:40
+ EEE 497
+ 1S
+ Signal Processing for Communications
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 12:00 PM-01:50 PM
+ 0
+ 28
+ Galymzhan Nauryzbayev
+ 3E.217 - cap:28
+ EEE 498
+ 1L
+ Computer Networks
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 11:00 AM-11:50 AM
+ 0
+ 40
+ Mohammad Obaidat
+ 3.317 - cap:40
+ EEE 498
+ 1Lb
+ Computer Networks
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 02:00 PM-03:50 PM
+ 0
+ 40
+ Mohammad Obaidat
+ 3E.321 - cap:18
+ ELCE 202
+ 1Lb
+ Digital Logic Design
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 04:00 PM-05:50 PM
+ 0
+ 40
+ Ikechi Ukaegbu
+ 6.522 - cap:45
+ ELCE 202
+ 2Lb
+ Digital Logic Design
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 11:00 AM-12:50 PM
+ 0
+ 40
+ Ikechi Ukaegbu
+ 6.522 - cap:45
+ ELCE 202
+ 2L
+ Digital Logic Design
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 02:00 PM-02:50 PM
+ 0
+ 40
+ Ikechi Ukaegbu
+ 3.303 - cap:36
+ ELCE 202
+ 1L
+ Digital Logic Design
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 10:00 AM-10:50 AM
+ 0
+ 40
+ Ikechi Ukaegbu
+ 3.309 - cap:45
+ ELCE 202
+ 1Lb
+ Digital Logic Design
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 04:00 PM-05:50 PM
+ 0
+ 40
+ Ikechi Ukaegbu
+ 3E.320 - cap:20
+ ELCE 202
+ 2Lb
+ Digital Logic Design
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 11:00 AM-12:50 PM
+ 0
+ 40
+ Ikechi Ukaegbu
+ 3E.320 - cap:20
+ ELCE 203
+ 1Lb
+ Signals and Systems
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 11:00 AM-12:50 PM
+ 0
+ 40
+ Muhammad Akhtar
+ 6.522 - cap:45
+ ELCE 203
+ 2Lb
+ Signals and Systems
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 11:00 AM-12:50 PM
+ 0
+ 40
+ Muhammad Akhtar
+ 6.522 - cap:45
+ ELCE 203
+ 1L
+ Signals and Systems
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 09:00 AM-09:50 AM
+ 0
+ 40
+ Muhammad Akhtar
+ 3.303 - cap:36
+ ELCE 203
+ 2L
+ Signals and Systems
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 10:00 AM-10:50 AM
+ 0
+ 40
+ Muhammad Akhtar
+ 3.303 - cap:36
+ EME 354
+ 1L
+ Advanced Control Systems
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 09:00 AM-09:50 AM
+ 0
+ 40
+ Md Ali, Dulat Karim
+ 3.316 - cap:40
+ EME 354
+ 1P
+ Advanced Control Systems
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 11:00 AM-11:50 AM
+ 0
+ 40
+ Md Ali, Dulat Karim
+ 3E.223 - cap:63
+ EME 358
+ 1L
+ Heat Transfer
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 01:00 PM-01:50 PM
+ 0
+ 40
+ Sholpan Sumbekova, Nazira Kaishubayeva
+ 3.316 - cap:40
+ EME 358
+ 1T
+ Heat Transfer
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 04:00 PM-04:50 PM
+ 0
+ 40
+ Sholpan Sumbekova, Nazira Kaishubayeva
+ 3.316 - cap:40
+ EME 358
+ 1Lb
+ Heat Transfer
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 12:00 PM-01:50 PM
+ 0
+ 40
+ Sholpan Sumbekova, Nazira Kaishubayeva
+ 3E.327 - cap:25
+ EME 361
+ 1L
+ Machine Design
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 02:00 PM-02:50 PM
+ 0
+ 40
+ Christos Spitas, Muslim Mukhtarkhanov
+ 3.316 - cap:40
+ EME 361
+ 1Lb
+ Machine Design
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 02:00 PM-03:50 PM
+ 0
+ 20
+ Christos Spitas, Muslim Mukhtarkhanov
+ 3E.330 - cap:15
+ EME 361
+ 2Lb
+ Machine Design
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 01:00 PM-02:50 PM
+ 0
+ 20
+ Christos Spitas, Muslim Mukhtarkhanov
+ 3E.330 - cap:15
+ EME 410
+ 1Lb
+ Aerodynamics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 09:00 AM-09:50 AM
+ 0
+ 40
+ Yong Zhao, Nazira Kaishubayeva
+ 6.522 - cap:45
+ EME 410
+ 1L
+ Aerodynamics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 11:00 AM-11:50 AM
+ 0
+ 40
+ Yong Zhao, Nazira Kaishubayeva
+ 3.309 - cap:45
+ EME 412
+ 1L
+ Heating, Ventilating, and Air Conditioning
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 40
+ Sergey Spotar, Nazira Kaishubayeva
+ 3.303 - cap:36
+ EME 412
+ 1Lb
+ Heating, Ventilating, and Air Conditioning
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 02:00 PM-03:50 PM
+ 0
+ 30
+ Sergey Spotar, Nazira Kaishubayeva
+ 3E.326 - cap:30
+ EME 412
+ 2Lb
+ Heating, Ventilating, and Air Conditioning
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 12:00 PM-01:50 PM
+ 0
+ 30
+ Sergey Spotar, Nazira Kaishubayeva
+ 3E.326 - cap:30
+ EME 413
+ 1L
+ Computer Aided Geometric Design
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 12:00 PM-12:50 PM
+ 0
+ 40
+ Konstantinos Kostas, Mariya Li
+ 3.309 - cap:45
+ EME 413
+ 1Lb
+ Computer Aided Geometric Design
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 04:00 PM-04:50 PM
+ 0
+ 40
+ Konstantinos Kostas, Mariya Li
+ 3E.217 - cap:28
+ EME 451
+ 1CLb
+ Capstone project 1
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ S
+ 09:00 AM-11:50 AM
+ 0
+ 40
+ Aigerim Mashekova, Christos Spitas
+ 3E.217 - cap:28
+ EME 456
+ 1L
+ Feasibility Analysis of Clean Energy Technologies
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 02:00 PM-02:50 PM
+ 0
+ 28
+ Luis Rojas, Dinara Dikhanbayeva
+ 3E.217 - cap:28
+ EME 456
+ 1T
+ Feasibility Analysis of Clean Energy Technologies
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 05:00 PM-05:50 PM
+ 0
+ 28
+ Luis Rojas, Dinara Dikhanbayeva
+ 3E.217 - cap:28
+ EME 463
+ 1L
+ Machine Dynamics II
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 12:00 PM-12:50 PM
+ 0
+ 40
+ Didier Talamona, Dulat Karim
+ 3.316 - cap:40
+ EME 463
+ 1T
+ Machine Dynamics II
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 04:00 PM-04:50 PM
+ 0
+ 40
+ Didier Talamona, Dulat Karim
+ 3.316 - cap:40
+ EME 463
+ 1Lb
+ Machine Dynamics II
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 03:00 PM-05:50 PM
+ 0
+ 40
+ Didier Talamona, Dulat Karim
+ 3E.130 - cap:25
+ EME 463
+ 1Lb
+ Machine Dynamics II
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 03:00 PM-05:50 PM
+ 0
+ 40
+ Didier Talamona, Dulat Karim
+ 3E.328 - cap:20
+ EME 467
+ 1Lb
+ Vehicle Propulsion Systems
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 03:00 PM-04:50 PM
+ 0
+ 40
+ Desmond Adair, Dinmukhamed Zhangaskanov
+ TBA - cap:0
+ EME 467
+ 1L
+ Vehicle Propulsion Systems
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 40
+ Desmond Adair, Dinmukhamed Zhangaskanov
+ 3.303 - cap:36
+ EME 467
+ 1T
+ Vehicle Propulsion Systems
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 02:00 PM-02:50 PM
+ 0
+ 40
+ Desmond Adair, Dinmukhamed Zhangaskanov
+ 3E.221 - cap:53
+ ENG 100
+ 1L
+ Introduction to Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 02:00 PM-02:50 PM
+ 0
+ 140
+ Grant Ellis, Konstantinos Kostas, Aigerim Baimyrza, Almira Yagofarova, Dan Chen, Muslim Mukhtarkhanov, Zhazira Berkinova, Nursultan Mussakhanuly, Enrico Marsili
+ Blue Hall - cap:231
+ ENG 100
+ 2L
+ Introduction to Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 140
+ Grant Ellis, Konstantinos Kostas, Aigerim Baimyrza, Almira Yagofarova, Dan Chen, Muslim Mukhtarkhanov, Zhazira Berkinova, Nursultan Mussakhanuly, Enrico Marsili
+ Blue Hall - cap:231
+ ENG 100
+ 3L
+ Introduction to Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-01:15 PM
+ 0
+ 140
+ Grant Ellis, Konstantinos Kostas, Aigerim Baimyrza, Almira Yagofarova, Dan Chen, Muslim Mukhtarkhanov, Zhazira Berkinova, Nursultan Mussakhanuly, Enrico Marsili
+ Blue Hall - cap:231
+ ENG 100
+ 1Lb
+ Introduction to Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 09:00 AM-11:50 AM
+ 0
+ 60
+ Grant Ellis, Konstantinos Kostas, Aigerim Baimyrza, Almira Yagofarova, Dan Chen, Muslim Mukhtarkhanov, Zhazira Berkinova, Nursultan Mussakhanuly, Enrico Marsili
+ 3E.217 - cap:28
+ ENG 100
+ 2Lb
+ Introduction to Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 03:00 PM-05:50 PM
+ 0
+ 60
+ Grant Ellis, Konstantinos Kostas, Aigerim Baimyrza, Almira Yagofarova, Dan Chen, Muslim Mukhtarkhanov, Zhazira Berkinova, Nursultan Mussakhanuly, Enrico Marsili
+ 3E.217 - cap:28
+ ENG 100
+ 3Lb
+ Introduction to Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 09:00 AM-11:50 AM
+ 0
+ 60
+ Grant Ellis, Konstantinos Kostas, Aigerim Baimyrza, Almira Yagofarova, Dan Chen, Muslim Mukhtarkhanov, Zhazira Berkinova, Nursultan Mussakhanuly, Enrico Marsili
+ 3E.217 - cap:28
+ ENG 100
+ 4Lb
+ Introduction to Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 03:00 PM-05:50 PM
+ 0
+ 60
+ Grant Ellis, Konstantinos Kostas, Aigerim Baimyrza, Almira Yagofarova, Dan Chen, Muslim Mukhtarkhanov, Zhazira Berkinova, Nursultan Mussakhanuly, Enrico Marsili
+ 3E.217 - cap:28
+ ENG 100
+ 5Lb
+ Introduction to Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 09:00 AM-11:50 AM
+ 0
+ 60
+ Grant Ellis, Konstantinos Kostas, Aigerim Baimyrza, Almira Yagofarova, Dan Chen, Muslim Mukhtarkhanov, Zhazira Berkinova, Nursultan Mussakhanuly, Enrico Marsili
+ 3E.217 - cap:28
+ ENG 100
+ 6Lb
+ Introduction to Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 03:00 PM-05:50 PM
+ 0
+ 60
+ Grant Ellis, Konstantinos Kostas, Aigerim Baimyrza, Almira Yagofarova, Dan Chen, Muslim Mukhtarkhanov, Zhazira Berkinova, Nursultan Mussakhanuly, Enrico Marsili
+ 3E.217 - cap:28
+ ENG 100
+ 1Lb
+ Introduction to Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 09:00 AM-11:50 AM
+ 0
+ 60
+ Grant Ellis, Konstantinos Kostas, Aigerim Baimyrza, Almira Yagofarova, Dan Chen, Muslim Mukhtarkhanov, Zhazira Berkinova, Nursultan Mussakhanuly, Enrico Marsili
+ 3E.227 - cap:28
+ ENG 100
+ 2Lb
+ Introduction to Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 03:00 PM-05:50 PM
+ 0
+ 60
+ Grant Ellis, Konstantinos Kostas, Aigerim Baimyrza, Almira Yagofarova, Dan Chen, Muslim Mukhtarkhanov, Zhazira Berkinova, Nursultan Mussakhanuly, Enrico Marsili
+ 3E.227 - cap:28
+ ENG 100
+ 3Lb
+ Introduction to Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 09:00 AM-11:50 AM
+ 0
+ 60
+ Grant Ellis, Konstantinos Kostas, Aigerim Baimyrza, Almira Yagofarova, Dan Chen, Muslim Mukhtarkhanov, Zhazira Berkinova, Nursultan Mussakhanuly, Enrico Marsili
+ 3E.227 - cap:28
+ ENG 100
+ 4Lb
+ Introduction to Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 03:00 PM-05:50 PM
+ 0
+ 60
+ Grant Ellis, Konstantinos Kostas, Aigerim Baimyrza, Almira Yagofarova, Dan Chen, Muslim Mukhtarkhanov, Zhazira Berkinova, Nursultan Mussakhanuly, Enrico Marsili
+ 3E.227 - cap:28
+ ENG 100
+ 5Lb
+ Introduction to Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 09:00 AM-11:50 AM
+ 0
+ 60
+ Grant Ellis, Konstantinos Kostas, Aigerim Baimyrza, Almira Yagofarova, Dan Chen, Muslim Mukhtarkhanov, Zhazira Berkinova, Nursultan Mussakhanuly, Enrico Marsili
+ 3E.227 - cap:28
+ ENG 100
+ 6Lb
+ Introduction to Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 03:00 PM-05:50 PM
+ 0
+ 60
+ Grant Ellis, Konstantinos Kostas, Aigerim Baimyrza, Almira Yagofarova, Dan Chen, Muslim Mukhtarkhanov, Zhazira Berkinova, Nursultan Mussakhanuly, Enrico Marsili
+ 3E.227 - cap:28
+ ENG 100
+ 1Lb
+ Introduction to Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 09:00 AM-11:50 AM
+ 0
+ 60
+ Grant Ellis, Konstantinos Kostas, Aigerim Baimyrza, Almira Yagofarova, Dan Chen, Muslim Mukhtarkhanov, Zhazira Berkinova, Nursultan Mussakhanuly, Enrico Marsili
+ 3E.320 - cap:20
+ ENG 100
+ 2Lb
+ Introduction to Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 03:00 PM-05:50 PM
+ 0
+ 60
+ Grant Ellis, Konstantinos Kostas, Aigerim Baimyrza, Almira Yagofarova, Dan Chen, Muslim Mukhtarkhanov, Zhazira Berkinova, Nursultan Mussakhanuly, Enrico Marsili
+ 3E.320 - cap:20
+ ENG 100
+ 3Lb
+ Introduction to Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 09:00 AM-11:50 AM
+ 0
+ 60
+ Grant Ellis, Konstantinos Kostas, Aigerim Baimyrza, Almira Yagofarova, Dan Chen, Muslim Mukhtarkhanov, Zhazira Berkinova, Nursultan Mussakhanuly, Enrico Marsili
+ 3E.320 - cap:20
+ ENG 100
+ 4Lb
+ Introduction to Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 03:00 PM-05:50 PM
+ 0
+ 60
+ Grant Ellis, Konstantinos Kostas, Aigerim Baimyrza, Almira Yagofarova, Dan Chen, Muslim Mukhtarkhanov, Zhazira Berkinova, Nursultan Mussakhanuly, Enrico Marsili
+ 3E.320 - cap:20
+ ENG 100
+ 5Lb
+ Introduction to Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 09:00 AM-11:50 AM
+ 0
+ 60
+ Grant Ellis, Konstantinos Kostas, Aigerim Baimyrza, Almira Yagofarova, Dan Chen, Muslim Mukhtarkhanov, Zhazira Berkinova, Nursultan Mussakhanuly, Enrico Marsili
+ 3E.320 - cap:20
+ ENG 100
+ 6Lb
+ Introduction to Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 03:00 PM-05:50 PM
+ 0
+ 60
+ Grant Ellis, Konstantinos Kostas, Aigerim Baimyrza, Almira Yagofarova, Dan Chen, Muslim Mukhtarkhanov, Zhazira Berkinova, Nursultan Mussakhanuly, Enrico Marsili
+ 3E.320 - cap:20
+ ENG 101
+ 1Lb
+ Programming for Engineers
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 09:00 AM-10:50 AM
+ 0
+ 58
+ Amin Zollanvari, Carlo Molardi
+ 3.323 - cap:60
+ ENG 101
+ 2Lb
+ Programming for Engineers
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 04:00 PM-05:50 PM
+ 0
+ 58
+ Vipin Kizheppatt, Aresh Dadlani
+ 3.323 - cap:60
+ ENG 101
+ 3Lb
+ Programming for Engineers
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 09:00 AM-10:50 AM
+ 0
+ 58
+ Amin Zollanvari, Carlo Molardi
+ 3.323 - cap:60
+ ENG 101
+ 4Lb
+ Programming for Engineers
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 04:00 PM-05:50 PM
+ 0
+ 58
+ Vipin Kizheppatt, Aresh Dadlani
+ 3.323 - cap:60
+ ENG 101
+ 5Lb
+ Programming for Engineers
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 09:00 AM-10:50 AM
+ 0
+ 58
+ Amin Zollanvari, Carlo Molardi
+ 3.323 - cap:60
+ ENG 101
+ 6Lb
+ Programming for Engineers
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 04:00 PM-05:50 PM
+ 0
+ 58
+ Vipin Kizheppatt, Aresh Dadlani
+ 3.323 - cap:60
+ ENG 101
+ 1L
+ Programming for Engineers
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 95
+ Carlo Molardi
+ 3E.220 - cap:95
+ ENG 101
+ 2L
+ Programming for Engineers
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 12:00 PM-12:50 PM
+ 0
+ 95
+ Aresh Dadlani
+ 3E.220 - cap:95
+ ENG 101
+ 3L
+ Programming for Engineers
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 01:00 PM-01:50 PM
+ 0
+ 95
+ Amin Zollanvari
+ 3E.220 - cap:95
+ ENG 101
+ 4L
+ Programming for Engineers
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 01:30 PM-02:45 PM
+ 0
+ 95
+ Vipin Kizheppatt
+ 3E.220 - cap:95
+ ENG 200
+ 1Lb
+ Engineering Mathematics III (Differential Equations & Linear Algebra)
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 11:00 AM-12:50 PM
+ 0
+ 58
+ Desmond Adair, Aigerim Baimyrza
+ 3.323 - cap:60
+ ENG 200
+ 2Lb
+ Engineering Mathematics III (Differential Equations & Linear Algebra)
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 09:00 AM-10:50 AM
+ 0
+ 58
+ Vasileios Zarikas, Aigerim Baimyrza
+ 3.323 - cap:60
+ ENG 200
+ 3Lb
+ Engineering Mathematics III (Differential Equations & Linear Algebra)
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 11:00 AM-12:50 PM
+ 0
+ 58
+ Desmond Adair, Aigerim Baimyrza
+ 3.323 - cap:60
+ ENG 200
+ 4Lb
+ Engineering Mathematics III (Differential Equations & Linear Algebra)
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 09:00 AM-10:50 AM
+ 0
+ 58
+ Vasileios Zarikas, Aigerim Baimyrza
+ 3.323 - cap:60
+ ENG 200
+ 5Lb
+ Engineering Mathematics III (Differential Equations & Linear Algebra)
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 11:00 AM-12:50 PM
+ 0
+ 58
+ Desmond Adair, Aigerim Baimyrza
+ 3.323 - cap:60
+ ENG 200
+ 1L
+ Engineering Mathematics III (Differential Equations & Linear Algebra)
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 03:00 PM-03:50 PM
+ 0
+ 190
+ Desmond Adair, Aigerim Baimyrza
+ Blue Hall - cap:231
+ ENG 200
+ 2L
+ Engineering Mathematics III (Differential Equations & Linear Algebra)
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 01:00 PM-01:50 PM
+ 0
+ 190
+ Vasileios Zarikas, Aigerim Baimyrza
+ Blue Hall - cap:231
+ FRE 201
+ 1L
+ Intermediate French I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MT W R
+ 02:00 PM-02:50 PM
+ 0
+ 14
+ Saule Dochshanova
+ 6.418 - cap:12
+ FRE 201
+ 2L
+ Intermediate French I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MT W R
+ 03:00 PM-03:50 PM
+ 0
+ 14
+ Saule Dochshanova
+ 6.418 - cap:12
+ FRE 201
+ 3L
+ Intermediate French I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MT W R
+ 04:00 PM-04:50 PM
+ 0
+ 14
+ Saule Dochshanova
+ 6.418 - cap:12
+ FRE 361/WLL 361
+ 1L
+ Topics in French and Francophone film
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 03:00 PM-04:15 PM
+ 0
+ 20
+ Alexandra Shaeffer
+ 8.319 - cap:28
+ GEOL 201
+ 1L
+ Mineralogy
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 09:00 AM-09:55 AM
+ 0
+ 20
+ Laurent Richard
+ 6.327 - cap:30
+ GEOL 201
+ 1Lb
+ Mineralogy
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 10:00 AM-11:55 AM
+ 0
+ 20
+ Laurent Richard
+ 6.327 - cap:30
+ GEOL 202
+ 1L
+ Geologic Maps & Cross-Sections
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 09:00 AM-09:55 AM
+ 0
+ 20
+ Laurent Richard, Milovan Fustic
+ 6.327 - cap:30
+ GEOL 202
+ 1Lb
+ Geologic Maps & Cross-Sections
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 10:00 AM-11:55 AM
+ 0
+ 20
+ Laurent Richard, Milovan Fustic
+ 6.327 - cap:30
+ GER 101
+ 1L
+ Beginning German
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MT W R
+ 02:00 PM-02:50 PM
+ 0
+ 20
+ TBA TBA
+ 8.317 - cap:24
+ GER 101
+ 2L
+ Beginning German
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MT W R
+ 03:00 PM-03:50 PM
+ 0
+ 20
+ TBA TBA
+ 8.317 - cap:24
+ HST 100
+ 1L
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+  Online/
+Distant
+ 0
+ 720
+ Daniel Scarborough
+Room: -
+  HST 100
+ 6S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 04:00 PM-04:50 PM
+ 0
+ 24
+ TBA TBA
+ 8.319 - cap:28
+ HST 100
+ 7S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 05:00 PM-05:50 PM
+ 0
+ 24
+ TBA TBA
+ 8.319 - cap:28
+ HST 100
+ 19S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 04:00 PM-04:50 PM
+ 0
+ 24
+ Meiramgul Kussainova
+ 8.319 - cap:28
+ HST 100
+ 20S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 05:00 PM-05:50 PM
+ 0
+ 24
+ Mikhail Akulov
+ 8.319 - cap:28
+ HST 100
+ 28S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 04:00 PM-04:50 PM
+ 0
+ 24
+ Meiramgul Kussainova
+ 8.319 - cap:28
+ HST 100
+ 5S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 04:00 PM-04:50 PM
+ 0
+ 24
+ TBA TBA
+ 8.327 - cap:60
+ HST 100
+ 13S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 03:00 PM-03:50 PM
+ 0
+ 24
+ Meiramgul Kussainova
+ 8.327 - cap:60
+ HST 100
+ 17S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 04:00 PM-04:50 PM
+ 0
+ 24
+ Clare Griffin
+ 8.327 - cap:60
+ HST 100
+ 21S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 05:00 PM-05:50 PM
+ 0
+ 24
+ Meiramgul Kussainova
+ 8.321 - cap:28
+ HST 100
+ 30S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 05:00 PM-05:50 PM
+ 0
+ 24
+ Meiramgul Kussainova
+ 8.321 - cap:28
+ HST 100
+ 22S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 09:00 AM-09:50 AM
+ 0
+ 24
+ Curtis Murphy
+ 8.308 - cap:24
+ HST 100
+ 23S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 11:00 AM-11:50 AM
+ 0
+ 24
+ Daniel Scarborough
+ 8.308 - cap:24
+ HST 100
+ 25S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 01:00 PM-01:50 PM
+ 0
+ 24
+ Meiramgul Kussainova
+ 8.308 - cap:24
+ HST 100
+ 29S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 04:00 PM-04:50 PM
+ 0
+ 24
+ Daniel Scarborough
+ 8.308 - cap:24
+ HST 100
+ 2S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 01:00 PM-01:50 PM
+ 0
+ 24
+ Curtis Murphy
+ 8.305 - cap:28
+ HST 100
+ 12S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 01:00 PM-01:50 PM
+ 0
+ 24
+ Mikhail Akulov
+ 8.305 - cap:28
+ HST 100
+ 24S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 01:00 PM-01:50 PM
+ 0
+ 24
+ Mikhail Akulov
+ 8.305 - cap:28
+ HST 100
+ 1S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 01:00 PM-01:50 PM
+ 0
+ 24
+ TBA TBA
+ 8.154 - cap:60
+ HST 100
+ 11S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 01:00 PM-01:50 PM
+ 0
+ 24
+ TBA TBA
+ 8.154 - cap:60
+ HST 100
+ 18S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 04:00 PM-04:50 PM
+ 0
+ 24
+ Mikhail Akulov
+ 8.154 - cap:60
+ HST 100
+ 3S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 02:00 PM-02:50 PM
+ 0
+ 24
+ TBA TBA
+ 8.141 - cap:24
+ HST 100
+ 14S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 02:00 PM-02:50 PM
+ 0
+ 24
+ Clare Griffin
+ 8.141 - cap:24
+ HST 100
+ 26S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 02:00 PM-02:50 PM
+ 0
+ 24
+ Daniel Scarborough
+ 8.141 - cap:24
+ HST 100
+ 4S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 03:00 PM-03:50 PM
+ 0
+ 24
+ Curtis Murphy
+ 8.140 - cap:24
+ HST 100
+ 8S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 05:00 PM-05:50 PM
+ 0
+ 24
+ TBA TBA
+ 8.140 - cap:24
+ HST 100
+ 15S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 03:00 PM-03:50 PM
+ 0
+ 24
+ Mikhail Akulov
+ 8.140 - cap:24
+ HST 100
+ 27S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 03:00 PM-03:50 PM
+ 0
+ 24
+ Mikhail Akulov
+ 8.140 - cap:24
+ HST 100
+ 9S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 10:00 AM-10:50 AM
+ 0
+ 24
+ TBA TBA
+ 8.322B - cap:24
+ HST 100
+ 10S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 11:00 AM-11:50 AM
+ 0
+ 24
+ TBA TBA
+ 8.322B - cap:24
+ HST 100
+ 16S
+ History of Kazakhstan
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 03:00 PM-03:50 PM
+ 0
+ 24
+ Clare Griffin
+ 8.322B - cap:24
+ HST 104
+ 1L
+ Central Asian History II (1700 - 1991)
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 04:00 PM-04:50 PM
+ 0
+ 28
+ TBA TBA
+ 8.310 - cap:24
+ HST 105
+ 1L
+ Introduction to Eurasian Environmental History
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 24
+ David Moon
+ 8.327 - cap:60
+ HST 124
+ 1L
+ Introduction to the History of Medicine
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 12:00 PM-12:50 PM
+ 0
+ 30
+ Elliott Bowen
+ 8.302 - cap:60
+ HST 151
+ 1S
+ US History I (to 1877)
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 11:00 AM-11:50 AM
+ 0
+ 30
+ Elliott Bowen
+ 8.154 - cap:60
+ HST 223/ANT 287
+ 1L
+ Cannibalism and Civilization
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 01:30 PM-02:45 PM
+ 0
+ 25
+ Clare Griffin
+ 8.310 - cap:24
+ HST 232
+ 1L
+ Russian History from Riurik to Catherine the Great
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 03:00 PM-04:15 PM
+ 0
+ 24
+ Daniel Scarborough
+ 8.310 - cap:24
+ HST 235
+ 1L
+ Peter the Great (1682-1725): First Emperor of Russia and “Father of the Fatherland”
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 03:00 PM-04:15 PM
+ 0
+ 28
+ David Moon
+ 8.327 - cap:60
+ HST 261/REL 261
+ 1L
+ History of Islam (570s to 1258)
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 05:00 PM-05:50 PM
+ 0
+ 30
+ Daniel Beben
+ 8.302 - cap:60
+ HST 312/PLS 333
+ 1L
+ Comparative Colonialism
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 05:00 PM-05:50 PM
+ 0
+ 20
+ TBA TBA
+ 8.310 - cap:24
+ HST 335
+ 1L
+ European Nationalisms
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 10:00 AM-10:50 AM
+ 0
+ 28
+ Curtis Murphy
+ 8.302 - cap:60
+ HST 336
+ 1L
+ The Totalitarian Phenomenon
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 24
+ Mikhail Akulov
+ 8.305 - cap:28
+ HST 420
+ 1L
+ The Russian Empire in Asia and its Neighbours 1552-1919
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 04:30 PM-05:45 PM
+ 0
+ 10
+ TBA TBA
+ 8.508 - cap:24
+ HST 498
+ 1IS
+ Directed Reading
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ S
+ 08:00 AM-08:50 AM
+ 0
+ 1
+ Curtis Murphy
+ TBA - cap:0
+ KAZ 201
+ 2L
+ Academic Kazakh I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 10:00 AM-10:50 AM
+ 0
+ 16
+ Kulyan Kopesh
+ 8.319 - cap:28
+ KAZ 201
+ 8L
+ Academic Kazakh I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 02:00 PM-02:50 PM
+ 0
+ 16
+ Aidar Balabekov
+ 8.319 - cap:28
+ KAZ 201
+ 3L
+ Academic Kazakh I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 11:00 AM-11:50 AM
+ 0
+ 16
+ Gulzhamilya Shalabayeva
+ 8.321 - cap:28
+ KAZ 201
+ 5L
+ Academic Kazakh I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 01:00 PM-01:50 PM
+ 0
+ 16
+ Kulyan Kopesh
+ 8.310 - cap:24
+ KAZ 201
+ 11L
+ Academic Kazakh I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 04:00 PM-04:50 PM
+ 0
+ 16
+ Aidar Balabekov
+ 8.317 - cap:24
+ KAZ 201
+ 13L
+ Academic Kazakh I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 06:00 PM-07:15 PM
+ 0
+ 16
+ Guldana Tulenova
+ 8.317 - cap:24
+ KAZ 201
+ 6L
+ Academic Kazakh I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 12:00 PM-12:50 PM
+ 0
+ 16
+ Gulzhamilya Shalabayeva
+ 6.508 - cap:20
+ KAZ 201
+ 1L
+ Academic Kazakh I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 10:00 AM-10:50 AM
+ 0
+ 16
+ Gulzhamilya Shalabayeva
+ 8.508 - cap:24
+ KAZ 201
+ 7L
+ Academic Kazakh I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 01:00 PM-01:50 PM
+ 0
+ 16
+ Aidar Balabekov
+ 8.508 - cap:24
+ KAZ 201
+ 9L
+ Academic Kazakh I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 02:00 PM-02:50 PM
+ 0
+ 16
+ Gulzhamilya Shalabayeva
+ 8.508 - cap:24
+ KAZ 201
+ 10L
+ Academic Kazakh I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 03:00 PM-03:50 PM
+ 0
+ 16
+ Aidar Balabekov
+ 8.508 - cap:24
+ KAZ 201
+ 4L
+ Academic Kazakh I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 11:00 AM-11:50 AM
+ 0
+ 16
+ Kulyan Kopesh
+ 8.140 - cap:24
+ KAZ 201
+ 12L
+ Academic Kazakh I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-01:15 PM
+ 0
+ 16
+ Guldana Tulenova
+ 8.140 - cap:24
+ KAZ 202
+ 3L
+ Academic Kazakh II
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 01:00 PM-01:50 PM
+ 0
+ 16
+ Bakyt Akbuzauova
+ 8.319 - cap:28
+ KAZ 202
+ 4L
+ Academic Kazakh II
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 02:00 PM-02:50 PM
+ 0
+ 16
+ Bakyt Akbuzauova
+ 8.321 - cap:28
+ KAZ 202
+ 8L
+ Academic Kazakh II
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 16
+ Raushan Myrzabekova
+ 8.310 - cap:24
+ KAZ 202
+ 11L
+ Academic Kazakh II
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 04:30 PM-05:45 PM
+ 0
+ 16
+ Raushan Myrzabekova
+ 8.310 - cap:24
+ KAZ 202
+ 12L
+ Academic Kazakh II
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 06:00 PM-07:15 PM
+ 0
+ 16
+ Raushan Myrzabekova
+ 8.310 - cap:24
+ KAZ 202
+ 7L
+ Academic Kazakh II
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 01:30 PM-02:45 PM
+ 0
+ 16
+ Raushan Myrzabekova
+ 6.410 - cap:28
+ KAZ 202
+ 2L
+ Academic Kazakh II
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 11:00 AM-11:50 AM
+ 0
+ 16
+ Bakyt Akbuzauova
+ 6.508 - cap:20
+ KAZ 202
+ 5L
+ Academic Kazakh II
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 04:00 PM-04:50 PM
+ 0
+ 16
+ Meruyert Ibrayeva
+ 8.305 - cap:28
+ KAZ 202
+ 1L
+ Academic Kazakh II
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 10:00 AM-10:50 AM
+ 0
+ 16
+ Bakyt Akbuzauova
+ 8.141 - cap:24
+ KAZ 202
+ 10L
+ Academic Kazakh II
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 01:30 PM-02:45 PM
+ 0
+ 16
+ Saule Mussabekova
+ 8.141 - cap:24
+ KAZ 202
+ 6L
+ Academic Kazakh II
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 05:00 PM-05:50 PM
+ 0
+ 16
+ Meruyert Ibrayeva
+ 8.508 - cap:24
+ KAZ 202
+ 9L
+ Academic Kazakh II
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 16
+ Saule Mussabekova
+ 8.508 - cap:24
+ KAZ 211
+ 1S
+ Academic Speaking in Kazakh
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 20
+ Samal Abzhanova
+ 8.141 - cap:24
+ KAZ 211
+ 2S
+ Academic Speaking in Kazakh
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-01:15 PM
+ 0
+ 20
+ Samal Abzhanova
+ 8.508 - cap:24
+ KAZ 211
+ 3S
+ Academic Speaking in Kazakh
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 01:30 PM-02:45 PM
+ 0
+ 20
+ Samal Abzhanova
+ 8.508 - cap:24
+ KAZ 212
+ 1S
+ Academic Writing in Kazakh
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 03:00 PM-04:15 PM
+ 0
+ 20
+ Sarkyt Aliszhan
+ 8.305 - cap:28
+ KAZ 226
+ 1S
+ Kazakh for Medical School
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 03:00 PM-03:50 PM
+ 0
+ 24
+ Kulyan Kopesh
+ 8.310 - cap:24
+ KAZ 313
+ 3S
+ Kazakh for Business
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 24
+ Elmira Orazaliyeva
+ 8.319 - cap:28
+ KAZ 313
+ 2S
+ Kazakh for Business
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 24
+ Zeinekhan Kuzekova
+ 8.508 - cap:24
+ KAZ 313
+ 4S
+ Kazakh for Business
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 06:00 PM-07:15 PM
+ 0
+ 24
+ Gulnara Omarbekova
+ 8.508 - cap:24
+ KAZ 313
+ 1S
+ Kazakh for Business
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 01:30 PM-02:45 PM
+ 0
+ 24
+ Zeinep Zhumatayeva
+ 22.006 - cap:20
+ KAZ 349
+ 1L
+ Kazakh Mythology
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 11:00 AM-11:50 AM
+ 0
+ 24
+ Zhanar Baiteliyeva
+ 8.305 - cap:28
+ KAZ 351
+ 1S
+ Kazakh Short Stories
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 10:00 AM-10:50 AM
+ 0
+ 24
+ Zhanar Abdigapparova
+ 6.508 - cap:20
+ KAZ 354
+ 1S
+ Kazakh Drama
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-12:50 PM
+ 0
+ 24
+ Gultas Kurmanbay
+ 8.319 - cap:28
+ KAZ 356
+ 1S
+ Kazakh Music History
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 01:30 PM-02:45 PM
+ 0
+ 24
+ Meiramgul Kussainova
+ 6.508 - cap:20
+ KAZ 357
+ 1L
+ Literature of Alash
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 04:00 PM-04:50 PM
+ 0
+ 24
+ Zhanar Abdigapparova
+ 6.419 - cap:28
+ KAZ 362
+ 1L
+ Creative Writing in Kazakh Language
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 24
+ Yermek Adayeva
+ 22.006 - cap:20
+ KAZ 363
+ 1S
+ Language and Globalization
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 04:30 PM-05:45 PM
+ 0
+ 24
+ Gulnara Omarbekova
+ 8.140 - cap:24
+ KAZ 364
+ 1S
+ Kazakh for Civil Service
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 24
+ Elmira Orazaliyeva
+ 8.140 - cap:24
+ KAZ 366
+ 1S
+ Kazakh Language for Engineers
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 06:00 PM-07:15 PM
+ 0
+ 24
+ Zhazira Agabekova
+ 8.141 - cap:24
+ KAZ 368
+ 1L
+ Onomastics: History and Function of Names
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 03:00 PM-04:15 PM
+ 0
+ 24
+ Zhazira Agabekova
+ 8.141 - cap:24
+ KAZ 371
+ 1L
+ Contemporary Kazakh Literature
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 24
+ Yermek Adayeva
+ 22.006 - cap:20
+ KAZ 371
+ 2L
+ Contemporary Kazakh Literature
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-01:15 PM
+ 0
+ 24
+ Yermek Adayeva
+ 22.006 - cap:20
+ KAZ 371
+ 3L
+ Contemporary Kazakh Literature
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 03:00 PM-04:15 PM
+ 0
+ 24
+ Yermek Adayeva
+ 22.006 - cap:20
+ KAZ 372
+ 1L
+ Language and ethnicity
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 12:00 PM-12:50 PM
+ 0
+ 24
+ Zhanar Baiteliyeva
+ 8.321 - cap:28
+ KAZ 373
+ 1S
+ Kazakh Terminology
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-01:15 PM
+ 0
+ 24
+ Sarkyt Aliszhan
+ 8.141 - cap:24
+ KAZ 374
+ 1S
+ Kazakh Diplomacy
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 01:30 PM-02:45 PM
+ 0
+ 24
+ Zeinekhan Kuzekova
+ 6.419 - cap:28
+ KAZ 375
+ 1S
+ Cultural Studies and Kazakh Culture
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 04:30 PM-05:45 PM
+ 0
+ 24
+ Zeinep Zhumatayeva
+ 8.319 - cap:28
+ KOR 101
+ 1L
+ Beginning Korean I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MT W R
+ 09:00 AM-09:50 AM
+ 0
+ 20
+ TBA TBA
+ 8.317 - cap:24
+ KOR 101
+ 2L
+ Beginning Korean I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MT W R
+ 10:00 AM-10:50 AM
+ 0
+ 20
+ TBA TBA
+ 8.317 - cap:24
+ KOR 201
+ 1L
+ Intermediate Korean I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MT W R
+ 11:00 AM-11:50 AM
+ 0
+ 20
+ TBA TBA
+ 7.517 - cap:27
+ KOR 201
+ 2L
+ Intermediate Korean I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MT W R
+ 12:00 PM-12:50 PM
+ 0
+ 20
+ TBA TBA
+ 7.517 - cap:27
+ LING 130
+ 1L
+ Introduction to Language and Communication
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 03:00 PM-03:50 PM
+ 0
+ 28
+ Eva-Marie Dubuisson
+ 8.154 - cap:60
+ LING 131
+ 2L
+ Introduction to Linguistics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 03:00 PM-03:50 PM
+ 0
+ 28
+ Olga Potanina
+ 8.302 - cap:60
+ LING 131
+ 1L
+ Introduction to Linguistics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 02:00 PM-02:50 PM
+ 0
+ 28
+ Olga Potanina
+ 8.154 - cap:60
+ LING 140
+ 1L
+ Language Variation and Change: the Story of English
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 11:00 AM-11:50 AM
+ 0
+ 28
+ Olga Potanina
+ 8.302 - cap:60
+ LING 272
+ 1L
+ Language and the Mind
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 01:00 PM-01:50 PM
+ 0
+ 28
+ Zarina Rakhmanova
+ 8.321 - cap:28
+ LING 273
+ 1L
+ Survey of Research Methods in Linguistics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 02:00 PM-02:50 PM
+ 0
+ 28
+ Andrey Filchenko
+ 8.305 - cap:28
+ LING 275
+ 1L
+ Second Language Acquisition Theory and Research I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-01:15 PM
+ 0
+ 28
+ Alexandra Shaeffer
+ 8.321 - cap:28
+ LING 278
+ 1L
+ Sounds of the World’s Languages
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 04:00 PM-04:50 PM
+ 0
+ 28
+ Zarina Rakhmanova
+ 8.302 - cap:60
+ LING 472
+ 1L
+ Language Ideologies
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 04:30 PM-07:20 PM
+ 0
+ 10
+ Eva-Marie Dubuisson
+ 8.322B - cap:24
+ MAE 201
+ 1L
+ Computer Aided Design
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 03:00 PM-03:50 PM
+ 0
+ 60
+ Yerkin Abdildin, Igor Kolyagin
+ 3.323 - cap:60
+ MAE 201
+ 1Lb
+ Computer Aided Design
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 04:00 PM-05:50 PM
+ 0
+ 60
+ Yerkin Abdildin, Igor Kolyagin
+ 3.323 - cap:60
+ MATH 109
+ 1L
+ Mathematical Discovery
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 03:00 PM-03:50 PM
+ 0
+ 48
+ Birzhan Akynkozhayev
+ 7.246 - cap:54
+ MATH 109
+ 2L
+ Mathematical Discovery
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 04:00 PM-04:50 PM
+ 0
+ 48
+ Zhibek Kadyrsizova
+ 7.246 - cap:54
+ MATH 161
+ 1L
+ Calculus I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 09:00 AM-09:50 AM
+ 0
+ 72
+ Bibinur Shupeyeva
+ 7E.222 - cap:105
+ MATH 161
+ 1R
+ Calculus I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 09:00 AM-10:15 AM
+ 0
+ 72
+ TBA TBA
+ 7E.222 - cap:105
+ MATH 161
+ 2L
+ Calculus I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 10:00 AM-10:50 AM
+ 0
+ 72
+ Durvudkhan Suragan
+ 7E.222 - cap:105
+ MATH 161
+ 2R
+ Calculus I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 10:30 AM-11:45 AM
+ 0
+ 72
+ TBA TBA
+ 7E.222 - cap:105
+ MATH 161
+ 3L
+ Calculus I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 11:00 AM-11:50 AM
+ 0
+ 72
+ Birzhan Akynkozhayev
+ 7E.222 - cap:105
+ MATH 161
+ 3R
+ Calculus I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 12:00 PM-01:15 PM
+ 0
+ 72
+ TBA TBA
+ 7E.222 - cap:105
+ MATH 161
+ 4L
+ Calculus I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 12:00 PM-12:50 PM
+ 0
+ 72
+ Yerlan Amanbek
+ 7E.222 - cap:105
+ MATH 161
+ 4R
+ Calculus I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 01:30 PM-02:45 PM
+ 0
+ 72
+ TBA TBA
+ 7E.222 - cap:105
+ MATH 161
+ 5L
+ Calculus I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 01:00 PM-01:50 PM
+ 0
+ 72
+ Mark Lawrence
+ 7E.222 - cap:105
+ MATH 161
+ 5R
+ Calculus I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 03:00 PM-04:15 PM
+ 0
+ 72
+ TBA TBA
+ 7E.222 - cap:105
+ MATH 161
+ 6L
+ Calculus I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 02:00 PM-02:50 PM
+ 0
+ 72
+ Anastasios Bountis
+ 7E.222 - cap:105
+ MATH 161
+ 6R
+ Calculus I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 04:30 PM-05:45 PM
+ 0
+ 72
+ TBA TBA
+ 7E.222 - cap:105
+ MATH 161
+ 7L
+ Calculus I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 03:00 PM-03:50 PM
+ 0
+ 72
+ Durvudkhan Suragan
+ 7E.222 - cap:105
+ MATH 161
+ 7R
+ Calculus I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 09:00 AM-10:15 AM
+ 0
+ 72
+ TBA TBA
+ 7E.222 - cap:105
+ MATH 161
+ 8L
+ Calculus I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 04:00 PM-04:50 PM
+ 0
+ 0
+ TBA TBA
+ 7E.222 - cap:105
+ MATH 161
+ 8R
+ Calculus I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 10:30 AM-11:45 AM
+ 0
+ 0
+ TBA TBA
+ 7E.222 - cap:105
+ MATH 161
+ 9L
+ Calculus I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 05:00 PM-05:50 PM
+ 0
+ 0
+ TBA TBA
+ 7E.222 - cap:105
+ MATH 161
+ 9R
+ Calculus I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 12:00 PM-01:15 PM
+ 0
+ 0
+ TBA TBA
+ 7E.222 - cap:105
+ MATH 161
+ 10R
+ Calculus I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 01:30 PM-02:45 PM
+ 0
+ 72
+ TBA TBA
+ 7E.222 - cap:105
+ MATH 161
+ 11R
+ Calculus I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 03:00 PM-04:15 PM
+ 0
+ 0
+ TBA TBA
+ 7E.222 - cap:105
+ MATH 161
+ 10L
+ Calculus I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 10:00 AM-10:50 AM
+ 0
+ 72
+ Mark Lawrence
+ 7E.429 - cap:103
+ MATH 161
+ 11L
+ Calculus I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 05:00 PM-05:50 PM
+ 0
+ 0
+ TBA TBA
+ 7E.429 - cap:103
+ MATH 162
+ 1L
+ Calculus II
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 03:00 PM-04:15 PM
+ 0
+ 48
+ Raushan Zhumanova
+ 7.246 - cap:54
+ MATH 162
+ 1R
+ Calculus II
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 05:00 PM-05:50 PM
+ 0
+ 48
+ TBA TBA
+ 7.246 - cap:54
+ MATH 162
+ 2L
+ Calculus II
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 04:30 PM-05:45 PM
+ 0
+ 48
+ Raushan Zhumanova
+ 7.246 - cap:54
+ MATH 162
+ 2R
+ Calculus II
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 05:00 PM-05:50 PM
+ 0
+ 48
+ TBA TBA
+ 7.246 - cap:54
+ MATH 251
+ 1L
+ Discrete Mathematics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 48
+ Francesco Sica
+ 7E.221 - cap:56
+ MATH 251
+ 2L
+ Discrete Mathematics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 48
+ Francesco Sica
+ 7E.221 - cap:56
+ MATH 251
+ 3L
+ Discrete Mathematics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 03:00 PM-04:15 PM
+ 0
+ 48
+ Manat Mustafa
+ 7E.221 - cap:56
+ MATH 263
+ 1L
+ Calculus III
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 10:00 AM-10:50 AM
+ 0
+ 48
+ Bibinur Shupeyeva
+ 7.210 - cap:54
+ MATH 263
+ 1R
+ Calculus III
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 04:30 PM-05:45 PM
+ 0
+ 48
+ TBA TBA
+ 7.210 - cap:54
+ MATH 263
+ 2L
+ Calculus III
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 01:00 PM-01:50 PM
+ 0
+ 48
+ Daniel Oliveira Da Silva
+ 7.210 - cap:54
+ MATH 263
+ 2R
+ Calculus III
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 03:00 PM-04:15 PM
+ 0
+ 48
+ TBA TBA
+ 7.210 - cap:54
+ MATH 263
+ 3L
+ Calculus III
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 04:00 PM-04:50 PM
+ 0
+ 0
+ TBA TBA
+ 7.210 - cap:54
+ MATH 263
+ 3R
+ Calculus III
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 04:30 PM-05:45 PM
+ 0
+ 0
+ TBA TBA
+ 7.210 - cap:54
+ MATH 273
+ 1L
+ Linear Algebra with Applications
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 09:00 AM-09:50 AM
+ 0
+ 48
+ Francesco Sica
+ 7.210 - cap:54
+ MATH 273
+ 1R
+ Linear Algebra with Applications
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 05:00 PM-05:50 PM
+ 0
+ 48
+ TBA TBA
+ 7.210 - cap:54
+ MATH 273
+ 2L
+ Linear Algebra with Applications
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 12:00 PM-12:50 PM
+ 0
+ 48
+ Manat Mustafa
+ 7.210 - cap:54
+ MATH 273
+ 2R
+ Linear Algebra with Applications
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 05:00 PM-05:50 PM
+ 0
+ 48
+ TBA TBA
+ 7.210 - cap:54
+ MATH 273
+ 3L
+ Linear Algebra with Applications
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 03:00 PM-03:50 PM
+ 0
+ 48
+ Ardak Kashkynbayev
+ 7.210 - cap:54
+ MATH 273
+ 3R
+ Linear Algebra with Applications
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 05:00 PM-05:50 PM
+ 0
+ 48
+ TBA TBA
+ 7.210 - cap:54
+ MATH 274
+ 1L
+ Introduction to Differential Equations
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-01:15 PM
+ 0
+ 48
+ Anastasios Bountis
+ 7E.221 - cap:56
+ MATH 274
+ 2L
+ Introduction to Differential Equations
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 01:30 PM-02:45 PM
+ 0
+ 0
+ TBA TBA
+ 7E.221 - cap:56
+ MATH 310
+ 1L
+ Applied Statistical Methods
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 48
+ Birzhan Akynkozhayev
+ 7.210 - cap:54
+ MATH 310
+ 2L
+ Applied Statistical Methods
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 01:30 PM-02:45 PM
+ 0
+ 0
+ TBA TBA
+ 7.210 - cap:54
+ MATH 321
+ 1L
+ Probability
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 09:00 AM-09:50 AM
+ 0
+ 0
+ TBA TBA
+ 7E.221 - cap:56
+ MATH 321
+ 2L
+ Probability
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 11:00 AM-11:50 AM
+ 0
+ 48
+ Eunghyun Lee
+ 7E.221 - cap:56
+ MATH 321
+ 3L
+ Probability
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 05:00 PM-05:50 PM
+ 0
+ 72
+ Mark Lawrence
+ 7E.329 - cap:105
+ MATH 323
+ 1L
+ Actuarial Mathematics I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 48
+ Raushan Zhumanova
+ 7.210 - cap:54
+ MATH 351
+ 1L
+ Numerical Methods with Applications
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 03:00 PM-03:50 PM
+ 0
+ 35
+ Piotr Sebastian Skrzypacz
+ 7E.221 - cap:56
+ MATH 361
+ 1L
+ Real Analysis I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 10:00 AM-10:50 AM
+ 0
+ 36
+ Daniel Oliveira Da Silva
+ 7E.221 - cap:56
+ MATH 361
+ 2L
+ Real Analysis I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 01:00 PM-01:50 PM
+ 0
+ 36
+ Durvudkhan Suragan
+ 7E.221 - cap:56
+ MATH 425
+ 1L
+ Stochastic Processes
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 02:00 PM-02:50 PM
+ 0
+ 36
+ TBA TBA
+ 7E.221 - cap:56
+ MATH 440
+ 1L
+ Regression Analysis
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-01:15 PM
+ 0
+ 36
+ Rustem Takhanov
+ 7E.220 - cap:56
+ MATH 471
+ 1L
+ Nonlinear Differential Equations
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 11:00 AM-11:50 AM
+ 0
+ 48
+ Ardak Kashkynbayev
+ 7E.220 - cap:56
+ MATH 480
+ 1L
+ Complex Analysis
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 48
+ Eunghyun Lee
+ 7E.220 - cap:56
+ MATH 481
+ 1L
+ Partial Differential Equations
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 12:00 PM-12:50 PM
+ 0
+ 48
+ Alejandro Javier Castro Castilla
+ 7E.220 - cap:56
+ MBME 603
+ 1L
+ Biomaterials Science & Engineering
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 02:00 PM-02:50 PM
+ 0
+ 40
+ Levinus Koole
+ 3E.223 - cap:63
+ PER 201
+ 1L
+ Intermediate Persian 1
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MT W R
+ 12:00 PM-12:50 PM
+ 0
+ 20
+ Reza Taherkermani
+ 8.308 - cap:24
+ PETE 201
+ 1L
+ Fluid Mechanics and Thermodynamics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 03:00 PM-04:25 PM
+ 0
+ 40
+ Peyman Pourafshary, Muhammad Hashmet
+ 6.302 - cap:48
+ PHIL 101
+ 1L
+ Introduction to Philosophy
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 09:00 AM-09:50 AM
+ 0
+ 30
+ Philip Enns
+ 8.307 - cap:60
+ PHIL 110
+ 1L
+ The Good Life in Practice
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 04:30 PM-05:45 PM
+ 0
+ 30
+ Shane Ryan
+ 8.307 - cap:60
+ PHIL 124
+ 1L
+ Knowledge and Reality
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 28
+ TBA TBA
+ 8.305 - cap:28
+ PHIL 141
+ 1L
+ Critical Thinking
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 01:30 PM-02:45 PM
+ 0
+ 28
+ TBA TBA
+ 8.305 - cap:28
+ PHIL 210
+ 1L
+ Ethics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 07:00 PM-08:00 PM
+ 0
+ 200
+ Siegfried Van Duffel
+ Orange Hall - cap:450
+ PHIL 210
+ 1S
+ Ethics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 10:30 AM-11:45 AM
+ 0
+ 25
+ TBA TBA
+ 5E.438 - cap:100
+ PHIL 210
+ 2S
+ Ethics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 12:00 PM-01:15 PM
+ 0
+ 25
+ TBA TBA
+ 5E.438 - cap:100
+ PHIL 210
+ 3S
+ Ethics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 03:00 PM-04:15 PM
+ 0
+ 25
+ TBA TBA
+ 5E.438 - cap:100
+ PHIL 210
+ 4S
+ Ethics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 04:30 PM-05:45 PM
+ 0
+ 25
+ TBA TBA
+ 5E.438 - cap:100
+ PHIL 210
+ 5S
+ Ethics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 10:30 AM-11:45 AM
+ 0
+ 25
+ TBA TBA
+ 5E.438 - cap:100
+ PHIL 210
+ 6S
+ Ethics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 12:00 PM-01:15 PM
+ 0
+ 25
+ TBA TBA
+ 5E.438 - cap:100
+ PHIL 210
+ 7S
+ Ethics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 03:00 PM-04:15 PM
+ 0
+ 25
+ TBA TBA
+ 5E.438 - cap:100
+ PHIL 210
+ 8S
+ Ethics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 04:30 PM-05:45 PM
+ 0
+ 25
+ TBA TBA
+ 5E.438 - cap:100
+ PHIL 215
+ 1L
+ Bioethics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-01:15 PM
+ 0
+ 25
+ Shane Ryan
+ 8.305 - cap:28
+ PHIL 223
+ 1L
+ Philosophy of Science
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 04:30 PM-05:45 PM
+ 0
+ 24
+ Mihnea Capraru
+ 8.305 - cap:28
+ PHIL 240
+ 1L
+ Formal Logic
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 01:30 PM-02:45 PM
+ 0
+ 24
+ Mihnea Capraru
+ 8.319 - cap:28
+ PHIL 320
+ 1L
+ Truth, Knowledge and Belief
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 20
+ Shane Ryan
+ 8.319 - cap:28
+ PHIL 325
+ 1L
+ Truth, Lies, Media, and Propaganda
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 01:30 PM-02:45 PM
+ 0
+ 20
+ Shane Ryan
+ 8.327 - cap:60
+ PHIL 352
+ 1L
+ Sex, Life, and Death: The Philosophy of Biology
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 20
+ Mihnea Capraru
+ 8.140 - cap:24
+ PHYS 161
+ 1PLb
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 09:00 AM-11:50 AM
+ 0
+ 30
+ Askhat Jumabekov
+ 9.202 - cap:40
+ PHYS 161
+ 2PLb
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 12:00 PM-02:50 PM
+ 0
+ 30
+ Askhat Jumabekov
+ 9.202 - cap:40
+ PHYS 161
+ 3PLb
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 03:00 PM-05:50 PM
+ 0
+ 30
+ Askhat Jumabekov
+ 9.202 - cap:40
+ PHYS 161
+ 4PLb
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 09:00 AM-11:50 AM
+ 0
+ 30
+ Alexander Tikhonov
+ 9.202 - cap:40
+ PHYS 161
+ 5PLb
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 12:00 PM-02:50 PM
+ 0
+ 30
+ Alexander Tikhonov
+ 9.202 - cap:40
+ PHYS 161
+ 6PLb
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 03:00 PM-05:50 PM
+ 0
+ 30
+ Alexander Tikhonov
+ 9.202 - cap:40
+ PHYS 161
+ 7PLb
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 09:00 AM-11:50 AM
+ 0
+ 30
+ Askhat Jumabekov
+ 9.202 - cap:40
+ PHYS 161
+ 8PLb
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 12:00 PM-02:50 PM
+ 0
+ 30
+ Askhat Jumabekov
+ 9.202 - cap:40
+ PHYS 161
+ 9PLb
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 03:00 PM-05:50 PM
+ 0
+ 30
+ Askhat Jumabekov
+ 9.202 - cap:40
+ PHYS 161
+ 10PLb
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 06:00 PM-08:50 PM
+ 0
+ 30
+ Zhandos Utegulov
+ 9.202 - cap:40
+ PHYS 161
+ 11PLb
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 03:00 PM-05:50 PM
+ 0
+ 30
+ Zhandos Utegulov
+ 9.202 - cap:40
+ PHYS 161
+ 12PLb
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 12:00 PM-02:50 PM
+ 0
+ 30
+ Zhandos Utegulov
+ 9.202 - cap:40
+ PHYS 161
+ 13PLb
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 06:00 PM-08:50 PM
+ 0
+ 30
+ Askhat Jumabekov
+ 9.202 - cap:40
+ PHYS 161
+ 14PLb
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 06:00 PM-08:50 PM
+ 0
+ 30
+ Alexander Tikhonov
+ 9.202 - cap:40
+ PHYS 161
+ 15PLb
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 06:00 PM-08:50 PM
+ 0
+ 30
+ Jean-Jacques Zondy
+ 9.202 - cap:40
+ PHYS 161
+ 16PLb
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 03:00 PM-05:50 PM
+ 0
+ 30
+ Jean-Jacques Zondy
+ 9.202 - cap:40
+ PHYS 161
+ 17PLb
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 12:00 PM-02:50 PM
+ 0
+ 30
+ Jean-Jacques Zondy
+ 9.202 - cap:40
+ PHYS 161
+ 18PLb
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 09:00 AM-11:50 AM
+ 0
+ 30
+ Jean-Jacques Zondy
+ 9.202 - cap:40
+ PHYS 161
+ 19PLb
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 06:00 PM-08:50 PM
+ 0
+ 30
+ Askhat Jumabekov
+ 9.202 - cap:40
+ PHYS 161
+ 20PLb
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ S
+ 12:00 PM-02:50 PM
+ 0
+ 30
+ Askhat Jumabekov
+ 9.202 - cap:40
+ PHYS 161
+ 21PLb
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ S
+ 03:00 PM-05:50 PM
+ 0
+ 30
+ Askhat Jumabekov
+ 9.202 - cap:40
+ PHYS 161
+ 22PLb
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 09:00 AM-11:50 AM
+ 0
+ 30
+ Zhandos Utegulov
+ 9.202 - cap:40
+ PHYS 161
+ 18R
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 11:00 AM-11:50 AM
+ 0
+ 32
+ Marat Kaikanov
+ 7.210 - cap:54
+ PHYS 161
+ 21R
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 11:00 AM-11:50 AM
+ 0
+ 32
+ Azat Abdullayev
+ 7.210 - cap:54
+ PHYS 161
+ 1R
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 01:00 PM-01:50 PM
+ 0
+ 32
+ Alexander Tikhonov
+ 7.507 - cap:60
+ PHYS 161
+ 2R
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 12:00 PM-12:50 PM
+ 0
+ 32
+ Marat Kaikanov
+ 7.507 - cap:60
+ PHYS 161
+ 3R
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 05:00 PM-05:50 PM
+ 0
+ 32
+ Mikhail Denissenya
+ 7.507 - cap:60
+ PHYS 161
+ 4R
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 01:00 PM-01:50 PM
+ 0
+ 32
+ Sergiy Bubin
+ 7.507 - cap:60
+ PHYS 161
+ 5R
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 04:00 PM-04:50 PM
+ 0
+ 32
+ Dana Alina
+ 7.507 - cap:60
+ PHYS 161
+ 6R
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 05:00 PM-05:50 PM
+ 0
+ 32
+ Konstantinos Valagiannopoulos
+ 7.507 - cap:60
+ PHYS 161
+ 7R
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 01:00 PM-01:50 PM
+ 0
+ 32
+ Alexander Tikhonov
+ 7.507 - cap:60
+ PHYS 161
+ 8R
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 04:00 PM-04:50 PM
+ 0
+ 32
+ Azat Abdullayev
+ 7.507 - cap:60
+ PHYS 161
+ 9R
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 05:00 PM-05:50 PM
+ 0
+ 32
+ Dana Alina
+ 7.507 - cap:60
+ PHYS 161
+ 10R
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 02:00 PM-02:50 PM
+ 0
+ 32
+ Marat Kaikanov
+ 7.507 - cap:60
+ PHYS 161
+ 11R
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 03:00 PM-03:50 PM
+ 0
+ 32
+ Jean-Jacques Zondy
+ 7.507 - cap:60
+ PHYS 161
+ 12R
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 04:00 PM-04:50 PM
+ 0
+ 32
+ Dana Alina
+ 7.507 - cap:60
+ PHYS 161
+ 13R
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 12:00 PM-12:50 PM
+ 0
+ 32
+ Sergiy Bubin
+ 7.507 - cap:60
+ PHYS 161
+ 14R
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 02:00 PM-02:50 PM
+ 0
+ 32
+ Zhandos Utegulov
+ 7.507 - cap:60
+ PHYS 161
+ 15R
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 03:00 PM-03:50 PM
+ 0
+ 32
+ Jean-Jacques Zondy
+ 7.507 - cap:60
+ PHYS 161
+ 16R
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 02:00 PM-02:50 PM
+ 0
+ 32
+ Askhat Jumabekov
+ 7.507 - cap:60
+ PHYS 161
+ 17R
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 03:00 PM-03:50 PM
+ 0
+ 32
+ Dana Alina
+ 7.507 - cap:60
+ PHYS 161
+ 20R
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 12:00 PM-12:50 PM
+ 0
+ 32
+ Zhandos Utegulov
+ 7.507 - cap:60
+ PHYS 161
+ 5L
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 01:00 PM-01:50 PM
+ 0
+ 160
+ Jean-Jacques Zondy
+ Orange Hall - cap:450
+ PHYS 161
+ 1L
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 09:00 AM-09:50 AM
+ 0
+ 96
+ Thomas Oikonomou
+ 7E.329 - cap:105
+ PHYS 161
+ 2L
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 12:00 PM-12:50 PM
+ 0
+ 96
+ Ernazar Abdikamalov
+ 7E.329 - cap:105
+ PHYS 161
+ 3L
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 03:00 PM-03:50 PM
+ 0
+ 96
+ Ernazar Abdikamalov, Anton Desyatnikov
+ 7E.329 - cap:105
+ PHYS 161
+ 4L
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 10:00 AM-10:50 AM
+ 0
+ 96
+ Thomas Oikonomou
+ 7E.329 - cap:105
+ PHYS 161
+ 6L
+ Physics I for Scientists and Engineers with Laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 04:00 PM-04:50 PM
+ 0
+ 96
+ Askhat Jumabekov
+ 7E.329 - cap:105
+ PHYS 201
+ 1L
+ Introductory Astronomy I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 10:00 AM-10:50 AM
+ 0
+ 160
+ Michael Robert Rogers Good
+ Orange Hall - cap:450
+ PHYS 221
+ 1L
+ Classical Mechanics I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 01:30 PM-02:45 PM
+ 0
+ 24
+ Daniele Malafarina
+ 7.427 - cap:25
+ PHYS 221
+ 1R
+ Classical Mechanics I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 12:00 PM-01:15 PM
+ 0
+ 24
+ Daniele Malafarina
+ 7.427 - cap:25
+ PHYS 261
+ 1L
+ Modern Physics with laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 11:00 AM-11:50 AM
+ 0
+ 24
+ Alexander Tikhonov
+ 7.322 - cap:24
+ PHYS 261
+ 1Lb
+ Modern Physics with laboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 01:00 PM-02:50 PM
+ 0
+ 24
+ Alexander Tikhonov
+ 7.502 - cap:24
+ PHYS 315
+ 1L
+ Mathematical Methods of Physics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 02:00 PM-02:50 PM
+ 0
+ 24
+ Mikhail Denissenya
+ 7E.329 - cap:105
+ PHYS 315
+ 1R
+ Mathematical Methods of Physics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 01:00 PM-01:50 PM
+ 0
+ 24
+ Mikhail Denissenya
+ 7E.329 - cap:105
+ PHYS 361
+ 1L
+ Classical Electrodynamics I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 01:00 PM-01:50 PM
+ 0
+ 24
+ Konstantinos Valagiannopoulos
+ 7.427 - cap:25
+ PHYS 361
+ 1R
+ Classical Electrodynamics I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 02:00 PM-02:50 PM
+ 0
+ 24
+ Konstantinos Valagiannopoulos
+ 7.427 - cap:25
+ PHYS 452
+ 1L
+ Quantum Mechanics II
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 24
+ Sergiy Bubin
+ 7.427 - cap:25
+ PHYS 452
+ 1R
+ Quantum Mechanics II
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 12:00 PM-01:15 PM
+ 0
+ 24
+ Sergiy Bubin
+ 7.427 - cap:25
+ PHYS 465
+ 1PLb
+ Advanced Experimental Physics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 01:30 PM-02:45 PM
+ 0
+ 24
+ Azat Abdullayev
+ 7.502 - cap:24
+ PHYS 473
+ 1L
+ Introduction to Solid State Physics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 24
+ Zhandos Utegulov
+ 7.427 - cap:25
+ PHYS 473
+ 1R
+ Introduction to Solid State Physics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 12:00 PM-12:50 PM
+ 0
+ 24
+ Zhandos Utegulov
+ 7.427 - cap:25
+ PHYS 495
+ 1S
+ Physics Colloquium
+ 0.0
+ 0
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 03:00 PM-04:15 PM
+ 0
+ 100
+ Sergiy Bubin
+ 7.427 - cap:25
+ PLS 100
+ 1L
+ Introduction to the Politics of Central Asia
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 50
+ Helene Thibault
+ 8.154 - cap:60
+ PLS 101
+ 1L
+ Introduction to Political Science
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW
+ 10:00 AM-11:15 AM
+ 0
+ 120
+ Neil Collins
+ Green Hall - cap:239
+ PLS 120
+ 1L
+ Introduction to Political Theory
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-01:15 PM
+ 0
+ 45
+ Jean-Francois Caron
+ 8.327 - cap:60
+ PLS 140
+ 1L
+ Introduction to Comparative Politics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 75
+ Helene Thibault
+ Blue Hall - cap:231
+ PLS 150
+ 1L
+ Introduction to International Relations
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 01:00 PM-01:50 PM
+ 0
+ 100
+ Maja Savevska
+ Green Hall - cap:239
+ PLS 195/SOC 120
+ 1L
+ Asian Community: Development in Asia
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-01:15 PM
+ 0
+ 40
+ Ho Koh
+ 8.154 - cap:60
+ PLS 210
+ 1L
+ Political Science Research Methods
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 10:00 AM-10:50 AM
+ 0
+ 25
+ Se Koo
+ 8.321 - cap:28
+ PLS 210
+ 2L
+ Political Science Research Methods
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 12:00 PM-12:50 PM
+ 0
+ 25
+ Se Koo
+ 8.140 - cap:24
+ PLS 211
+ 1L
+ Quantitative Methods
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 03:00 PM-03:50 PM
+ 0
+ 25
+ Bimal Adhikari
+ 8.305 - cap:28
+ PLS 211
+ 2L
+ Quantitative Methods
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 05:00 PM-05:50 PM
+ 0
+ 25
+ Chunho Park
+ 8.305 - cap:28
+ PLS 315
+ 1L
+ Political Game Theory
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 02:00 PM-02:50 PM
+ 0
+ 20
+ Chunho Park
+ 8.310 - cap:24
+ PLS 326
+ 1L
+ Modern Political Theory
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 05:00 PM-05:50 PM
+ 0
+ 20
+ TBA TBA
+ 8.317 - cap:24
+ PLS 329
+ 1L
+ Anarchy
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 04:00 PM-04:50 PM
+ 0
+ 20
+ TBA TBA
+ 8.321 - cap:28
+ PLS 338
+ 1L
+ U.S. Government and Politics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 20
+ Charles Sullivan
+ 8.141 - cap:24
+ PLS 341
+ 1L
+ Politics of Development
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 12:00 PM-12:50 PM
+ 0
+ 20
+ Bimal Adhikari
+ 8.319 - cap:28
+ PLS 342
+ 1L
+ Political Corruption
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW
+ 01:30 PM-02:45 PM
+ 0
+ 20
+ Neil Collins
+ 8.322B - cap:24
+ PLS 365
+ 1L
+ Civil-Military Relations
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 11:00 AM-11:50 AM
+ 0
+ 20
+ Spencer Willardson
+ 8.310 - cap:24
+ PLS 370
+ 1L
+ Law, Politics and Society
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 04:30 PM-05:45 PM
+ 0
+ 20
+ Alexei Trochev
+ 8.321 - cap:28
+ PLS 431
+ 1L
+ Politics and Governance of the Russian Federation
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 01:30 PM-04:20 PM
+ 0
+ 12
+ Charles Sullivan
+ 8.322B - cap:24
+ PLS 446
+ 1S
+ The Politics of Immigration Control
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 12:00 PM-02:50 PM
+ 0
+ 12
+ Caress Schenk
+ 8.322B - cap:24
+ PLS 448
+ 1L
+ Comparative Electoral System
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 04:30 PM-05:45 PM
+ 0
+ 12
+ Chunho Park
+ 8.317 - cap:24
+ PLS 455
+ 1S
+ The Politics of Arms in International Relations
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 12:00 PM-02:50 PM
+ 0
+ 12
+ Spencer Willardson
+ 8.309 - cap:14
+ PLS 465
+ 1L
+ Politics of International Finance
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 09:00 AM-11:50 AM
+ 0
+ 12
+ Maja Savevska
+ 8.322B - cap:24
+ ROBT 201
+ 1L
+ Mechanics: Statics and Dynamics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 09:00 AM-09:50 AM
+ 0
+ 72
+ Altay Zhakatayev
+ 7E.429 - cap:103
+ ROBT 203
+ 1L
+ Electrical and Electronic Circuits I with Lab
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 11:00 AM-11:50 AM
+ 0
+ 40
+ Ton Do Duc
+ 7.246 - cap:54
+ ROBT 203
+ 1Lb
+ Electrical and Electronic Circuits I with Lab
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 12:00 PM-02:50 PM
+ 0
+ 20
+ Zhanat Kappassov
+ 7.327 - cap:20
+ ROBT 203
+ 2Lb
+ Electrical and Electronic Circuits I with Lab
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ M
+ 03:00 PM-05:50 PM
+ 0
+ 20
+ Zhanat Kappassov
+ 7.327 - cap:20
+ ROBT 205
+ 1L
+ Signals and Sensing with Lab
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 40
+ Matteo Rubagotti
+ 7.246 - cap:54
+ ROBT 205
+ 1Lb
+ Signals and Sensing with Lab
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 12:00 PM-02:50 PM
+ 0
+ 20
+ Anara Sandygulova
+ 7.327 - cap:20
+ ROBT 205
+ 2Lb
+ Signals and Sensing with Lab
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ W
+ 03:00 PM-05:50 PM
+ 0
+ 20
+ Anara Sandygulova
+ 7.327 - cap:20
+ ROBT 301
+ 1L
+ Mechanical Design with CAD and MachiningLaboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 10:00 AM-10:50 AM
+ 0
+ 40
+ Mohamad Mosadeghzad
+ 7.246 - cap:54
+ ROBT 301
+ 1Lb
+ Mechanical Design with CAD and MachiningLaboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 01:00 PM-02:50 PM
+ 0
+ 14
+ Iliyas Tursynbek
+ 7.327 - cap:20
+ ROBT 301
+ 2Lb
+ Mechanical Design with CAD and MachiningLaboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ T
+ 03:00 PM-04:50 PM
+ 0
+ 14
+ Iliyas Tursynbek
+ 7.327 - cap:20
+ ROBT 301
+ 3Lb
+ Mechanical Design with CAD and MachiningLaboratory
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 03:00 PM-04:50 PM
+ 0
+ 14
+ Iliyas Tursynbek
+ 7.327 - cap:20
+ ROBT 303
+ 1L
+ Linear Control Theory with Lab
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 32
+ Tohid Alizadeh
+ 7.246 - cap:54
+ ROBT 303
+ 1Lb
+ Linear Control Theory with Lab
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 12:00 PM-02:50 PM
+ 0
+ 16
+ Mohamad Mosadeghzad
+ 7.327 - cap:20
+ ROBT 303
+ 2Lb
+ Linear Control Theory with Lab
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ F
+ 03:00 PM-05:50 PM
+ 0
+ 16
+ Mohamad Mosadeghzad
+ 7.327 - cap:20
+ ROBT 305
+ 1L
+ Embedded Systems
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-01:15 PM
+ 0
+ 24
+ Almas Shintemirov
+ 7.246 - cap:54
+ ROBT 307
+ 1L
+ Power Electronics
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 02:00 PM-02:50 PM
+ 0
+ 32
+ Ton Do Duc
+ 7.246 - cap:54
+ ROBT 308
+ 1L
+ Industrial Automation
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 01:30 PM-02:45 PM
+ 0
+ 24
+ Tohid Alizadeh
+ 7.322 - cap:24
+ ROBT 401
+ 1L
+ Robot Dynamics and Control
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 01:00 PM-01:50 PM
+ 0
+ 32
+ Michele Folgheraiter
+ 7.246 - cap:54
+ ROBT 407
+ 1L
+ Machine Learning with Applications
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 32
+ Berdakh Abibullaev
+ 7.322 - cap:24
+ ROBT 414
+ 1L
+ Human-Robot Interaction
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 24
+ Anara Sandygulova
+ 7.322 - cap:24
+ SHSS 150
+ 25L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 16
+ TBA TBA
+ 8.321 - cap:28
+ SHSS 150
+ 26L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 16
+ TBA TBA
+ 8.321 - cap:28
+ SHSS 150
+ 15L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 09:00 AM-09:50 AM
+ 0
+ 16
+ Shane Coates
+ 8.310 - cap:24
+ SHSS 150
+ 2L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 09:00 AM-09:50 AM
+ 0
+ 16
+ TBA TBA
+ 6.419 - cap:28
+ SHSS 150
+ 5L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 10:00 AM-10:50 AM
+ 0
+ 16
+ TBA TBA
+ 6.419 - cap:28
+ SHSS 150
+ 9L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 12:00 PM-12:50 PM
+ 0
+ 16
+ TBA TBA
+ 6.419 - cap:28
+ SHSS 150
+ 17L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 03:00 PM-03:50 PM
+ 0
+ 16
+ TBA TBA
+ 6.419 - cap:28
+ SHSS 150
+ 24L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 16
+ TBA TBA
+ 6.419 - cap:28
+ SHSS 150
+ 27L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 16
+ TBA TBA
+ 6.419 - cap:28
+ SHSS 150
+ 41L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 03:00 PM-04:15 PM
+ 0
+ 16
+ Jonathan Dupuy
+ 6.419 - cap:28
+ SHSS 150
+ 42L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 04:30 PM-05:45 PM
+ 0
+ 16
+ Jonathan Dupuy
+ 6.419 - cap:28
+ SHSS 150
+ 11L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 12:00 PM-12:50 PM
+ 0
+ 16
+ Jeffrey Carney
+ 6.410 - cap:28
+ SHSS 150
+ 19L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 04:00 PM-04:50 PM
+ 0
+ 16
+ TBA TBA
+ 6.410 - cap:28
+ SHSS 150
+ 22L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 05:00 PM-05:50 PM
+ 0
+ 16
+ TBA TBA
+ 6.410 - cap:28
+ SHSS 150
+ 36L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 01:00 PM-01:50 PM
+ 0
+ 16
+ Jeffrey Carney
+ 6.410 - cap:28
+ SHSS 150
+ 37L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 02:00 PM-02:50 PM
+ 0
+ 16
+ Simon Land
+ 6.410 - cap:28
+ SHSS 150
+ 40L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 04:30 PM-05:45 PM
+ 0
+ 16
+ TBA TBA
+ 6.410 - cap:28
+ SHSS 150
+ 43L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 11:00 AM-11:50 AM
+ 0
+ 16
+ TBA TBA
+ 6.410 - cap:28
+ SHSS 150
+ 13L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 01:00 PM-01:50 PM
+ 0
+ 16
+ Mariya Deykute
+ 6.508 - cap:20
+ SHSS 150
+ 16L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 02:00 PM-02:50 PM
+ 0
+ 16
+ Mariya Deykute
+ 6.508 - cap:20
+ SHSS 150
+ 18L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 03:00 PM-03:50 PM
+ 0
+ 16
+ TBA TBA
+ 6.508 - cap:20
+ SHSS 150
+ 21L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 04:00 PM-04:50 PM
+ 0
+ 16
+ Simon Land
+ 6.508 - cap:20
+ SHSS 150
+ 23L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 05:00 PM-05:50 PM
+ 0
+ 16
+ Simon Land
+ 6.508 - cap:20
+ SHSS 150
+ 28L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 03:00 PM-04:15 PM
+ 0
+ 16
+ Marilyn Plumlee
+ 6.508 - cap:20
+ SHSS 150
+ 38L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 04:30 PM-05:45 PM
+ 0
+ 16
+ Marilyn Plumlee
+ 6.508 - cap:20
+ SHSS 150
+ 39L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 16
+ Adina-Camelia Arvatu
+ 6.508 - cap:20
+ SHSS 150
+ 46L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-01:15 PM
+ 0
+ 16
+ Adina-Camelia Arvatu
+ 6.508 - cap:20
+ SHSS 150
+ 29L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 01:00 PM-01:50 PM
+ 0
+ 16
+ TBA TBA
+ 7.317 - cap:25
+ SHSS 150
+ 30L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 02:00 PM-02:50 PM
+ 0
+ 16
+ TBA TBA
+ 7.317 - cap:25
+ SHSS 150
+ 31L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 03:00 PM-03:50 PM
+ 0
+ 16
+ Patricia Coleman
+ 7.317 - cap:25
+ SHSS 150
+ 32L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 09:00 AM-10:15 AM
+ 0
+ 16
+ Ti Wu
+ 7.317 - cap:25
+ SHSS 150
+ 33L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 10:30 AM-11:45 AM
+ 0
+ 16
+ Ti Wu
+ 7.317 - cap:25
+ SHSS 150
+ 12L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 12:00 PM-12:50 PM
+ 0
+ 16
+ TBA TBA
+ 8.305 - cap:28
+ SHSS 150
+ 7L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 11:00 AM-11:50 AM
+ 0
+ 16
+ TBA TBA
+ 8.141 - cap:24
+ SHSS 150
+ 10L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 12:00 PM-12:50 PM
+ 0
+ 16
+ James Nielsen
+ 8.141 - cap:24
+ SHSS 150
+ 45L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 09:00 AM-09:50 AM
+ 0
+ 16
+ TBA TBA
+ 8.141 - cap:24
+ SHSS 150
+ 6L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 03:00 PM-04:15 PM
+ 0
+ 16
+ Ti Wu
+ 8.508 - cap:24
+ SHSS 150
+ 14L
+ Rhetoric and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 02:00 PM-02:50 PM
+ 0
+ 16
+ Patricia Coleman
+ 8.140 - cap:24
+ SHSS 210
+ 2L
+ Technical and Professional Writing
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 10:00 AM-10:50 AM
+ 0
+ 24
+ Shane Coates
+ 8.310 - cap:24
+ SHSS 210
+ 1L
+ Technical and Professional Writing
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 02:00 PM-02:50 PM
+ 0
+ 24
+ Shane Coates
+ 6.419 - cap:28
+ SHSS 210
+ 3L
+ Technical and Professional Writing
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 05:00 PM-05:50 PM
+ 0
+ 24
+ James Nielsen
+ 6.419 - cap:28
+ SHSS 210
+ 4L
+ Technical and Professional Writing
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 04:00 PM-04:50 PM
+ 0
+ 24
+ James Nielsen
+ 7.317 - cap:25
+ SHSS 210
+ 5L
+ Technical and Professional Writing
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-01:15 PM
+ 0
+ 24
+ Malgorzata Kruszewska
+ 7.317 - cap:25
+ SHSS 210
+ 6L
+ Technical and Professional Writing
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 03:00 PM-04:15 PM
+ 0
+ 24
+ Malgorzata Kruszewska
+ 7.317 - cap:25
+ SHSS 210
+ 7L
+ Technical and Professional Writing
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 04:30 PM-05:45 PM
+ 0
+ 24
+ Malgorzata Kruszewska
+ 7.317 - cap:25
+ SHSS 230
+ 5L
+ Say What you Mean: Clarity, Precision, and Style in Academic Writing
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-01:15 PM
+ 0
+ 24
+ Marilyn Plumlee
+ 6.410 - cap:28
+ SHSS 230
+ 6L
+ Say What you Mean: Clarity, Precision, and Style in Academic Writing
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 09:00 AM-09:50 AM
+ 0
+ 24
+ Jeffrey Carney
+ 6.410 - cap:28
+ SHSS 230
+ 1L
+ Say What you Mean: Clarity, Precision, and Style in Academic Writing
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 09:00 AM-09:50 AM
+ 0
+ 24
+ Lori Enns
+ 7.317 - cap:25
+ SHSS 230
+ 2L
+ Say What you Mean: Clarity, Precision, and Style in Academic Writing
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 10:00 AM-10:50 AM
+ 0
+ 24
+ Lori Enns
+ 7.317 - cap:25
+ SHSS 240
+ 1L
+ Writing for Digital Media
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 03:00 PM-04:15 PM
+ 0
+ 24
+ Brandon Brock
+ 8.322A - cap:25
+ SHSS 240
+ 2L
+ Writing for Digital Media
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 04:30 PM-05:45 PM
+ 0
+ 24
+ Brandon Brock
+ 8.322A - cap:25
+ SHSS 240
+ 3L
+ Writing for Digital Media
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 03:00 PM-04:15 PM
+ 0
+ 24
+ TBA TBA
+ 8.422A - cap:25
+ SHSS 260/WLL 235
+ 4L
+ Creative Writing: Introduction to Fiction Writing I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 12:00 PM-12:50 PM
+ 0
+ 16
+ Jonathan Dupuy
+ 6.419 - cap:28
+ SHSS 260/WLL 235
+ 3L
+ Creative Writing: Introduction to Fiction Writing I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 05:00 PM-05:50 PM
+ 0
+ 16
+ Mariya Deykute
+ 8.141 - cap:24
+ SHSS 390
+ 1L
+ Writing Fellows I – Composition and Collaboration in Theory and Practice
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 05:00 PM-05:50 PM
+ 0
+ 19
+ Karie Pieczynski
+ 7.317 - cap:25
+ SOC 101
+ 1L
+ Introduction to Sociology
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 01:30 PM-02:45 PM
+ 0
+ 100
+ Alexandre Miltsov
+ Blue Hall - cap:231
+ SOC 115
+ 2L
+ Global Social Problems
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 11:00 AM-11:50 AM
+ 0
+ 24
+ TBA TBA
+ 8.319 - cap:28
+ SOC 115
+ 1L
+ Global Social Problems
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 12:00 PM-12:50 PM
+ 0
+ 24
+ TBA TBA
+ 8.310 - cap:24
+ SOC 201
+ 1L
+ Social Science Research Methods
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 03:00 PM-04:15 PM
+ 0
+ 30
+ Christina Pugh
+ 8.302 - cap:60
+ SOC 210
+ 1L
+ Gender and Society
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 09:00 AM-09:50 AM
+ 0
+ 24
+ TBA TBA
+ 8.140 - cap:24
+ SOC 213
+ 2L
+ Work and Society
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 05:00 PM-05:50 PM
+ 0
+ 24
+ TBA TBA
+ 8.308 - cap:24
+ SOC 213
+ 1L
+ Work and Society
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 04:00 PM-04:50 PM
+ 0
+ 24
+ TBA TBA
+ 8.140 - cap:24
+ SOC 215
+ 1L
+ Sociology of Race and Ethnicity
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 01:00 PM-01:50 PM
+ 0
+ 30
+ Saltanat Akhmetova
+ 8.302 - cap:60
+ SOC 221
+ 1L
+ International Migration
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 12:00 PM-12:50 PM
+ 0
+ 24
+ Saltanat Akhmetova
+ 8.154 - cap:60
+ SOC 301
+ 1L
+ Classical Sociological Theory
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 04:30 PM-05:45 PM
+ 0
+ 30
+ Gavin Slade
+ 8.302 - cap:60
+ SOC 310
+ 1L
+ Social Inequality
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 12:00 PM-12:50 PM
+ 0
+ 24
+ TBA TBA
+ 7.317 - cap:25
+ SOC 322
+ 1L
+ Digital Media Research Methods
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 03:00 PM-04:15 PM
+ 0
+ 24
+ Alexandre Miltsov
+ 8.140 - cap:24
+ SOC 498
+ 1CP
+ Capstone Seminar Part I
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ R
+ 09:00 AM-11:45 AM
+ 0
+ 20
+ Christina Pugh
+ 8.322B - cap:24
+ SPA 101
+ 1L
+ Beginning Spanish I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MT W R
+ 09:00 AM-09:50 AM
+ 0
+ 20
+ TBA TBA
+ 8.308 - cap:24
+ SPA 101
+ 2L
+ Beginning Spanish I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MT W R
+ 10:00 AM-10:50 AM
+ 0
+ 20
+ TBA TBA
+ 8.308 - cap:24
+ SPA 101
+ 3L
+ Beginning Spanish I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MT W R
+ 02:00 PM-02:50 PM
+ 0
+ 20
+ TBA TBA
+ 8.308 - cap:24
+ SPA 101
+ 4L
+ Beginning Spanish I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MT W R
+ 03:00 PM-03:50 PM
+ 0
+ 20
+ TBA TBA
+ 8.308 - cap:24
+ SPA 201
+ 1L
+ Intermediate Spanish I
+ 4.0
+ 8
+ 12-AUG-19
+ 22-NOV-19
+ MT W R
+ 11:00 AM-11:50 AM
+ 0
+ 20
+ TBA TBA
+ 8.308 - cap:24
+ SPA 314
+ 1L
+ Advanced Spanish Grammar and Composition
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ TR
+ 01:30 PM-02:45 PM
+ 0
+ 20
+ Luis Villamia
+ 8.321 - cap:28
+ SPA 351/WLL 351
+ 1L
+ Literature and Film of the Postcolonial World
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 01:00 PM-01:50 PM
+ 0
+ 24
+ Jenni Lehtinen
+ 8.140 - cap:24
+ TUR 231
+ 1L
+ Istanbul in Literature and Culture
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 04:00 PM-04:50 PM
+ 0
+ 24
+ Funda Guven
+ 8.322B - cap:24
+ TUR 305
+ 1L
+ Introduction to Chagatay and Ottoman Turkish
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 04:00 PM-04:50 PM
+ 0
+ 24
+ Uli Schamiloglu
+ 8.508 - cap:24
+ TUR 375
+ 1L
+ Topics in Turkic Studies
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 04:00 PM-04:50 PM
+ 0
+ 24
+ Jeanine Dagyeli
+ 8.141 - cap:24
+ TUR 411
+ 1L
+ Advanced Readings in Turkish Literature
+ 3.0
+ 6
+ 12-AUG-19
+ 22-NOV-19
+ MW F
+ 03:00 PM-03:50 PM
+ 0
+ 14
+ Funda Guven
+ 8.309 - cap:14
+WLL 1103LIntroduction to Literary Studies3.0612-AUG-1922-NOV-19TR03:00 PM-04:15 PM026Luis Villamia8.321 - cap:28WLL 1101LIntroduction to Literary Studies3.0612-AUG-1922-NOV-19MW F10:00 AM-10:50 AM026Victoria Thorstensson8.307 - cap:60WLL 1102LIntroduction to Literary Studies3.0612-AUG-1922-NOV-19MW F11:00 AM-11:50 AM026Victoria Thorstensson8.307 - cap:60WLL 1211LIntroduction to Cultural Studies3.0612-AUG-1922-NOV-19MW F12:00 PM-12:50 PM028Jenni Lehtinen8.307 - cap:60WLL 171/ANT 1751LIntroduction to Linguistic Anthropology3.0612-AUG-1922-NOV-19MW F02:00 PM-02:50 PM030Erika Alpert8.302 - cap:60WLL 2011LWorld Literature I3.0612-AUG-1922-NOV-19TR01:30 PM-02:45 PM024James Nikopoulos8.140 - cap:24WLL 2121LIntroduction to Poetry3.0612-AUG-1922-NOV-19TR10:30 AM-11:45 AM030Reza Taherkermani8.302 - cap:60WLL 2441LSurvey of Nineteenth-Century Russian Literature3.0612-AUG-1922-NOV-19MW F02:00 PM-02:50 PM028Victoria Thorstensson8.327 - cap:60WLL 4501LLaughter3.0612-AUG-1922-NOV-19TR04:30 PM-05:45 PM015James Nikopoulos8.141 - cap:24WLL 4981RLanguages, Linguistics, and Literatures Capstone I3.0612-AUG-1922-NOV-19W05:00 PM-07:50 PM020Alexandra Shaeffer8.322B - cap:24
