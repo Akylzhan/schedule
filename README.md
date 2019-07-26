@@ -1,4 +1,4 @@
 # schedule
-Experimenting in python. I am beginner
+Experimenting in Python. I am beginner
 
-Just copied the content of our university's PDF file to txt and scraped by python 3.x
+Just copied the content of our university's PDF file to txt and scraped by Python 3.x
