@@ -1,5 +1,5 @@
 import sys
-f = open('main.txt')
+f = open('schedule.txt')
 
 
 schedule = {}
@@ -13,8 +13,10 @@ counter = 0
 abb = ""
 
 for line in f:
+	line = line.strip('\n')
 	if i == 0:
 		schedule[counter] = {}
+	
 	schedule[counter][iteration[i]] = line
 
 	i = i + 1
@@ -22,4 +24,9 @@ for line in f:
 		i=0
 		counter = counter+1
 
-
+course = input()
+for index, value in enumerate(schedule): 
+	if schedule[value]['Abbreviature'] == course or schedule[value]['Abbreviature'] == " "+course:
+		for i in schedule[value]:
+			print(i+ "  " + schedule[value][i])
+		print('\n')
