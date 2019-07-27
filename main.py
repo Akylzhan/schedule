@@ -1,32 +1,29 @@
 import sys
-f = open('schedule.txt')
+import json
+import re
+
+CREDUND = "\33[41m\33[4m"
+BOLD = '\33[1m'
+CEND = '\33[0m'
 
 
-schedule = {}
+schedule = json.load(open('schedule.json'))
+
+
 iteration = ['Abbreviature','CourseType','CourseTitle',
-'CreditsUS','CreditsECTS','StartDate','EndDate','WeekDays',
-'Time','Enr','Cap','Prof','Room']
+'CreditsUS','CreditsECTS','StartDate','EndDate',
+'WeekDays','Time','Enr','Cap','Prof','Room']
 
+course = input("Course:")
 
-i = 0
-counter = 0
-abb = ""
-
-for line in f:
-	line = line.strip('\n')
-	if i == 0:
-		schedule[counter] = {}
-	
-	schedule[counter][iteration[i]] = line
-
-	i = i + 1
-	if i==13:
-		i=0
-		counter = counter+1
-
-course = input()
 for index, value in enumerate(schedule): 
-	if schedule[value]['Abbreviature'] == course or schedule[value]['Abbreviature'] == " "+course:
+	if schedule[value]['Abbreviature'] == course or\
+	schedule[value]['Abbreviature'].split(' ')[0] == course:
 		for i in schedule[value]:
-			print(i+ "  " + schedule[value][i])
+			if i=='CourseTitle' or i=='Prof':
+				print(i+ " "+CREDUND+schedule[value][i]+CEND)
+			elif i=='WeekDays':
+				print(i+ " "+BOLD+schedule[value][i]+CEND)
+			else:
+				print(i+ "  " + schedule[value][i])
 		print('\n')
