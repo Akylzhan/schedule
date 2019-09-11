@@ -10,7 +10,7 @@ CEND = '\33[0m'
 schedule = json.load(open('schedule.json'))
 
 
-iteration = ['Abbreviation','CourseType','CourseTitle',
+iteration = ['Abbreviation':2,'CourseType','CourseTitle',
 'CreditsUS','CreditsECTS','StartDate','EndDate',
 'WeekDays','Time','Enr','Cap','Prof','Room']
 
